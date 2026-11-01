@@ -9,15 +9,16 @@
     }
   },
   "home": {
-    "pagesTitle": "Accueil",
+    "pagesTitle": "Je rends vos supports </br> clairs et attrayants.",
+    "pagesSubtitle": "paragraph",
     "scrollDown": "Scroll vers le bas", 
     "scrollToProjects": "Pour voir les projets",
     "recentProjectsTitle": "Projets récents",
-    "recentProjectsSubtitle": "Voici une sélection de mes récents projets",
+    "recentProjectsSubtitle": "Voici une sélection de mes réalisations",
     "viewAllProjects": "Voir tout les projets",
-    "aboutTitle": "Je suis Elina",
-    "aboutText": "Après un master ECNI à Gobelin Paris, je suis à la recherche d'une opportunité d'emploi.",
-    "aboutButton": "Plus sur mon parcours",
+    "aboutTitle": "Ouverte à des univers variés",
+    "aboutText": "J’utilise mes capacités d'analyse et ma créativité pour concevoir des supports intuitifs et harmonieux.",
+    "aboutButton": "En savoir plus",
     "aboutImg": {
       "src": "/homePage/homeAboutIntroPhoto.png",
       "alt": "Photo professionnelle"
@@ -25,7 +26,7 @@
   },
   "projects": {
     "pagesTitle": "Projets",
-    "pagesSubtitle": "Voici une selection des projets auxquels j'au eu l'occasion de participé au cours des années.",
+    "pagesSubtitle": "Voici une selection des projets auxquels j'ai eu l'occasion de participer au cours des années.",
     "filters": {
       "all": "Tous",
       "list": ["UI", "UX", "DA", "Graphisme", "Motion", "Game"],

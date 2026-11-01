@@ -4,8 +4,8 @@
       "src": "/aboutPage/aboutCvPhoto.png",
       "alt": "Photo professionnelle"
     },
-    "sectionTitle": "Bonjour, je suis Elina",
-    "paragraph": "En tant que designer UX/UI, je souhaite accompagner par le design les utilisateurs de supports digitaux grâce à la réflexion sur le parcours et l’expérience utilisateur, l’ergonomie et le graphisme.",
+    "sectionTitle": "Designer UX/UI, je mets ma créativité au service de vos projets.",
+    "paragraph": "En partant de la complexité, je rends vos interfaces compréhensibles et intuitives en m'inscrivant dans un système visuel harmonieux et cohérent.",
     "contactButton": "Me contacter",
     "cvButton": "Télécharger mon CV"
   },
@@ -14,7 +14,7 @@
   "content": [
   {
     "title": "Design et Création",
-    "tags": ["UX/UI design", "Design graphique","Direction artistique", "Design système", 
+    "tags": ["UX/UI design", "Design graphique","Direction artistique (DA)", "Design système", 
     "Motion design", "Wireframing", "Prototypage", "Design print"]
   },
   {

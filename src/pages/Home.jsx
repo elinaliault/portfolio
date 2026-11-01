@@ -88,7 +88,7 @@ export default function Home() {
     <>
       <div className="relative inline-block mt-26 mb-10">
           <h1 className="font-(family-name:--heading)
-          text-(--marine) text-4xl sm:text-8xl text-center">
+          text-(--marine) text-4xl sm:text-7xl text-center">
               {t.home.pagesTitle}
           </h1>
           <span 
@@ -100,6 +100,7 @@ export default function Home() {
           >
               ✽
           </span>
+          <p>{t.home.pagesSubtitle} </p>
       </div>
 
       <ScrollIndicator
