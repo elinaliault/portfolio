@@ -25,13 +25,13 @@ export default function About() {
   return (
     <>
       {/* Presentation */}
-      <div className="w-full flex flex-row gap-12 md:gap-20 items-center my-24">
+      <div className="w-full flex flex-row gap-12 md:gap-22 items-center my-24">
         <img src={about.presentation.HeroImg.src} 
         alt={about.presentation.HeroImg.alt} className="max-w-xs"/>
         <div className="flex flex-col gap-4 text-left">
           <h2 className="font-(family-name:--heading) text-2xl md:text-3xl text-(--marine)">
             {about.presentation.sectionTitle}</h2>
-          <p className="text-lg text-(--marine)">{about.presentation.paragraph}</p>
+          <p className="text-lg text-(--marine) mb-3">{about.presentation.paragraph}</p>
           <div className="flex flex-wrap gap-4">
             <Button variant="primary" icon={Mail}  
             text={about.presentation.contactButton} href="mailto:elina.liault@gmail.com" />
