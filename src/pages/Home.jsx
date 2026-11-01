@@ -87,7 +87,7 @@ export default function Home() {
   return (
     <>
       <div className="text-left w-fit m-auto py-6 flex flex-col">
-        <div className="relative inline-block mt-26 mb-7">
+        <div className="relative inline-block mt-26 mb-7 w-fit">
             <h1 className="font-(family-name:--heading)
             text-(--marine) text-4xl sm:text-7xl"
             dangerouslySetInnerHTML={{ __html: t.home.pagesTitle }} />
