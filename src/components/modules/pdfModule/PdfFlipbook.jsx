@@ -15,6 +15,7 @@ pdfjsLib.GlobalWorkerOptions.workerSrc = pdfWorker;
 const PRELOAD_WINDOW = 2;
 const MOBILE_BREAKPOINT = 640; // px — change this to move where it switches to cover+button
 const RESIZE_DEBOUNCE = 200; // ms — how long to wait after resize stops before reinit
+const RENDER_SCALE = 2.5; // higher = sharper but heavier (2 = current)
 
 export default function PdfFlipbookJs({ src }) {
   const { lang } = useParams();
@@ -51,7 +52,7 @@ export default function PdfFlipbookJs({ src }) {
 
     try {
       const page = await pdf.getPage(index + 1);
-      const viewport = page.getViewport({ scale: 2 });
+      const viewport = page.getViewport({ scale: RENDER_SCALE  });
 
       if (index === 0) setPageAspect(viewport.width / viewport.height);
 
