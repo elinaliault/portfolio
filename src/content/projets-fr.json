@@ -172,14 +172,14 @@
             {
             "type": "titleParagraph",
             "title": "Étendue du projet",
-            "paragraph": "Notre concept prévoit 2 applications : la première à destination du grand public pour lui permettre de découvrir des nouveaux artistes, la deuxième à destination des artistes eux même pour pouvoir partager leurs contenus.</br></br> Étant donné la durée limitée de ce projet, nous nous sommes concentré sur l'application grand public, celle-ci étant la plus à même d'illustrer notre concept."
+            "paragraph": "Notre concept prévoit 2 applications : la première à destination du grand public pour lui permettre de découvrir des nouveaux artistes, la deuxième à destination des artistes eux même pour pouvoir partager leurs contenus.</br></br> Étant donné la durée limitée de ce projet, nous nous sommes concentrés sur l'application grand public, celle-ci étant la plus à même d'illustrer notre concept."
             },
             {
             "type": "titleParagraph",
-            "id": "ux",
+            "id": "process",
             "label": "Process de design",
             "title": "Expérience Utilisateur",
-            "paragraph": "Nous avons pensé l'application autour d'<mark>une fonctionnalité centrale</mark> : la découverte d'<mark>un artiste aléatoire par jour.</mark> </br></br> Nous avons commencer par <mark>cartographie les fonctionnalités</mark> que l'on voulait développer pour mener à bien notre concept et vision."
+            "paragraph": "Nous avons pensé l'application autour d'<mark>une fonctionnalité centrale</mark> : la découverte d'<mark>un artiste aléatoire par jour.</mark> </br></br> Nous avons commencé par <mark>cartographier les fonctionnalités</mark> que l'on voulait développer pour mener à bien notre concept et vision."
             },
             {
             "type": "image",
@@ -189,7 +189,7 @@
             },
             {
             "type": "titleParagraph",
-            "paragraph": "Nous nous sommes ensuite appuyé sur celle-ci pour réaliser des <mark>wireframes,</mark> illustrant le positionnement des éléments dans les écrans de l'application."
+            "paragraph": "Nous nous sommes ensuite appuyés sur celle-ci pour réaliser des <mark>wireframes,</mark> illustrant le positionnement des éléments dans les écrans de l'application."
             },
             {
             "type": "image",
