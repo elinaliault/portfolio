@@ -91,9 +91,45 @@ export default function Home() {
             <h1 className="font-(family-name:--heading)
             text-(--marine) text-4xl sm:text-7xl"
             dangerouslySetInnerHTML={{ __html: t.home.pagesTitle }} />
+            {/* <span 
+                className="text-[3rem] text-(--marine-clair) 
+                absolute -top-6.5 -left-4.5
+                rotate-[-16deg]
+                hidden sm:inline"
+                aria-hidden="true"
+            >
+                ✽
+            </span> */}
+            {/* <span 
+                className="text-[3rem] text-(--marine-clair) 
+                absolute -top-10 -left-8
+                rotate-[-16deg]
+                hidden sm:inline"
+                aria-hidden="true"
+            >
+                ✽
+            </span> */}
+            {/* <span 
+                className="text-[2.5rem] text-(--marine-clair) 
+                absolute top-1.5 -left-10
+                rotate-[-16deg]
+                hidden sm:inline"
+                aria-hidden="true"
+            >
+                ✽
+            </span> */}
+             <span 
+                className="text-[2.5rem] text-(--marine-clair) 
+                absolute top-10 -right-22
+                rotate-[-16deg]
+                hidden sm:inline"
+                aria-hidden="true"
+            >
+                ✽
+            </span>
             <span 
-                className="text-[4rem] text-(--marine-clair) 
-                absolute -top-18 -right-16
+                className="text-[2.5rem] text-(--marine-clair) 
+                absolute -top-18 right-10
                 rotate-[-16deg]
                 hidden sm:inline"
                 aria-hidden="true"
@@ -102,8 +138,8 @@ export default function Home() {
             </span>
             <span 
                 className="text-base text-(--marine) bg-(--marine-clair) px-1
-                absolute -top-8 right-40
-                rotate-[-14deg]
+                absolute -top-8 right-28
+                rotate-14
                 hidden sm:inline"
                 aria-hidden="true"
             >
@@ -117,6 +153,17 @@ export default function Home() {
                 aria-hidden="true"
             >
                Graphisme
+            </span>
+            {/* top-10 -right-30 */}
+            <span 
+                className="text-base text-(--marine) bg-(--marine-clair) px-1
+                absolute 
+                -top-6 -right-24
+                -rotate-14
+                hidden sm:inline"
+                aria-hidden="true"
+            >
+               UX design
             </span>
         </div>
         <p className="text-base sm:text-lg">{t.home.pagesSubtitle} </p>
