@@ -4,92 +4,100 @@
       "src": "/aboutPage/aboutCvPhoto.png",
       "alt": "Professional photo"
     },
-    "sectionTitle": "Hello, I am Elina",
-    "paragraph": "As a UX/UI designer, I aim to support users of digital media through design by focusing on user journeys, user experience, ergonomics, and graphic design.",
+    "sectionTitle": "As a UX/UI designer, I put my creativity at the service of your projects.",
+    "paragraph": "Starting from complexity, I make your interfaces understandable and intuitive, within a harmonious and consistent visual system.",
     "contactButton": "Contact me",
-    "cvButton": "Download my CV"
+    "cvButton": "Download my resume"
   },
   "skills": {
-    "sectionTitle": "Skills",
-    "content": [
-      {
-        "title": "Design & Creation",
-        "tags": ["UX/UI design", "Graphic design", "Art direction", "Design system", 
-        "Motion design", "Wireframing", "Prototyping", "Print design"]
-      },
-      {
-        "title": "Tools & Software",
-        "tags": ["Figma", "Illustrator", "InDesign", "After Effects", "Premiere Pro",
-        "Photoshop", "Fusion 360"]
-      },
-      {
-        "title": "Development & Technology",
-        "tags": ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"]
-      }
-    ]
+  "sectionTitle": "Skills",
+  "content": [
+  {
+    "title": "Design and Creation",
+    "tags": ["UX/UI design", "Graphic design", "Art direction", "Design systems",
+    "Motion design", "Wireframing", "Prototyping", "Print design"]
+  },
+  {
+    "title": "Tools and Software",
+    "tags": ["Figma", "Illustrator", "InDesign", "After Effects", "Premiere Pro",
+    "Photoshop", "Fusion 360"]
+  },
+  {
+    "title": "Development and Technology",
+    "tags": ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"]
+  }]
+  },
+  "collapseSubtitles": {
+    "work": {
+      "description": "Missions",
+      "projects": "Projects"
+    },
+    "school": {
+      "description": "Description",
+      "projects": "Projects"
+    }
   },
   "work": {
     "sectionTitle": "Experience",
     "content": [
-      {
-        "id": 1,
-        "icon": "/aboutPage/liasse360-logo.png",
-        "title": "Liasse 360",
-        "relatedOrg": "Liasse 360",
-        "subtitle": "UX/UI Designer",
-        "date": "September 2024 - August 2026",
-        "description": "Creation of the brand identity and communication visuals. Design of the user interface and experience for the SaaS software and showcase website."
-      },
-      {
-        "id": 2,
-        "icon": "/aboutPage/maif-logo.png",
-        "title": "MAIF",
-        "relatedOrg": "MAIF",
-        "subtitle": "UI Designer",
-        "date": "May - July 2023",
-        "description": "Management of pictogram and component libraries. Creation and editing of icons. Layout design for commercial marketing emails."
-      },
-      {
-        "id": 3,
-        "icon": "/aboutPage/meubles-celio-logo.png",
-        "title": "Meubles CELIO",
-        "relatedOrg": "Meubles CELIO",
-        "subtitle": "Graphic Designer",
-        "date": "July 2022",
-        "description": "Designing goodies and social media posts. Creating mockups of graphic elements intended for the brand's physical spaces."
-      },
-      {
-        "id": 4,
-        "icon": "/aboutPage/mairie-niort-logo.png",
-        "title": "Mairie de Niort",
-        "relatedOrg": "Mairie de Niort",
-        "subtitle": "Graphic Designer",
-        "date": "June 2022",
-        "description": "Creation of a brand identity for an internal department. Page layout for the newsletter, posters, and internal documents."
-      }
-    ]
-  },
+    {
+      "id": 1,
+      "icon": "/aboutPage/liasse360-logo.png",
+      "title": "Liasse 360",
+      "relatedOrg": "Liasse 360",
+      "subtitle": "UX/UI Designer",
+      "date": "September 2024 - August 2026",
+      "description": ["Head of the company's design projects", "Created the brand's visual identity guidelines", "Built a pictogram library and a design system", "Produced digital, animated and printed communication materials", "Designed the user interface mockups for the showcase website", "Translated the concept into a coherent user experience and an intuitive SaaS software interface"]
+    },
+    {
+      "id": 2,
+      "icon": "/aboutPage/maif-logo.png",
+      "title": "MAIF",
+      "relatedOrg": "MAIF",
+      "subtitle": "UI Designer",
+      "date": "May - July 2023",
+      "description": ["Managed pictogram libraries and design system components", "Created and retouched pictograms", "Mocked up marketing emails"]
+    },
+    {
+      "id": 3,
+      "icon": "/aboutPage/meubles-celio-logo.png",
+      "title": "Meubles CELIO",
+      "relatedOrg": "Meubles CELIO",
+      "subtitle": "Graphic Designer",
+      "date": "July 2022",
+      "description": ["Designed mockups for goodies and social media posts", "Created mockups of the graphic elements planned for the brand's store spaces"]
+    },
+    {
+      "id": 4,
+      "icon": "/aboutPage/mairie-niort-logo.png",
+      "title": "Mairie de Niort",
+      "relatedOrg": "Mairie de Niort",
+      "subtitle": "Graphic Designer",
+      "date": "June 2022",
+      "description": ["Created a visual identity for an internal department", "Designed the newsletter, posters and internal documents"]
+    }
+  ]},
   "school": {
     "sectionTitle": "Education",
     "content": [
-      {
-        "id": 1,
-        "icon": "/aboutPage/gobelins-logo.png",
-        "title": "Expert in Interactive Digital Creation",
-        "subtitle": "Gobelins Paris",
-        "relatedOrg": "Gobelins Paris",
-        "date": "September 2024 - June 2026",
-        "description": "This program (RNCP Level 7) allowed me to refine my skills and complete various team projects."
-      },
-      {
-        "id": 2,
-        "icon": "/aboutPage/tourrache-logo.png",
-        "title": "DNMADE Emerging Media",
-        "subtitle": "Lycée La Tourrache",
-        "relatedOrg": "DNMADE",
-        "date": "September 2021 - June 2024",
-        "description": "During this national degree program (bachelor's grade), I learned the fundamentals of design with a specialization in digital design."
-      }
+    {
+      "id": 1,
+      "icon": "/aboutPage/gobelins-logo.png",
+      "title": "Expert in Interactive Digital Creation",
+      "subtitle": "Gobelins Paris",
+      "relatedOrg": "Gobelins Paris",
+      "date": "September 2024 - June 2026",
+      "description": ["RNCP level 7 program (master's level)", "Allowed me to sharpen my skills and carry out varied projects in teams."]
+    },
+    {
+      "id": 2,
+      "icon": "/aboutPage/tourrache-logo.png",
+      "title": "DNMADE Emerging Media",
+      "subtitle": "Lycée La Tourrache",
+      "relatedOrg": "DNMADE",
+      "date": "September 2021 - June 2024",
+      "description": ["French national diploma in crafts and design (bachelor's level)", "There I learned the fundamentals of design, with a specialization in digital design."]
+    }
     ]
   }
 }

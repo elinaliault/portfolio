@@ -11,6 +11,11 @@
   "home": {
     "pagesTitle": "Je rends vos supports </br> clairs et attrayants",
     "pagesSubtitle": "En partant de votre identité et de vos projets, je crée des visuels impactants et des interfaces intuitives.",
+    "keywords": {
+      "ui": "UI design",
+      "ux": "UX design",
+      "graphic": "Graphisme"
+    },
     "scrollDown": "Scroll vers le bas", 
     "scrollToProjects": "Pour voir les projets",
     "recentProjectsTitle": "Projets récents",
@@ -41,6 +46,9 @@
     "notFound": {
       "error": "Projet introuvable",
       "return": "Retourner aux projets"
+    },
+    "toc": {
+      "backButton": "Précédent"
     },
     "overview": {
       "timeline": "Durée",

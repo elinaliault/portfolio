@@ -4,20 +4,26 @@
     "projects": "Projects",
     "about": "About",
     "curriculum": {
-      "title": "CV",
+      "title": "Resume",
       "url": "https://elinaliault.myportfolio.com/work"
     }
   },
   "home": {
-    "pagesTitle": "Home",
-    "scrollDown": "Scroll down", 
-    "scrollToProjects": "To view projects",
-    "recentProjectsTitle": "Recent Projects",
-    "recentProjectsSubtitle": "Here is a selection of my recent projects",
+    "pagesTitle": "I make your materials </br> clear and engaging",
+    "pagesSubtitle": "Starting from your identity and your projects, I create impactful visuals and intuitive interfaces.",
+    "keywords": {
+      "ui": "UI design",
+      "ux": "UX design",
+      "graphic": "Graphic design"
+    },
+    "scrollDown": "Scroll down",
+    "scrollToProjects": "To see the projects",
+    "recentProjectsTitle": "Recent projects",
+    "recentProjectsSubtitle": "Here is a selection of my work",
     "viewAllProjects": "View all projects",
-    "aboutTitle": "I am Elina",
-    "aboutText": "After earning a Master's degree in ECNI from Gobelins Paris, I am currently looking for new career opportunities.",
-    "aboutButton": "More about my background",
+    "aboutTitle": "Open to a variety of sectors",
+    "aboutText": "I use my analytical skills and creativity to design intuitive, harmonious materials.",
+    "aboutButton": "Learn more",
     "aboutImg": {
       "src": "/homePage/homeAboutIntroPhoto.png",
       "alt": "Professional photo"
@@ -25,10 +31,10 @@
   },
   "projects": {
     "pagesTitle": "Projects",
-    "pagesSubtitle": "Here is a selection of projects I have worked on over the years.",
+    "pagesSubtitle": "Here is a selection of the projects I've had the chance to work on over the years.",
     "filters": {
       "all": "All",
-      "list": ["UI", "UX", "AD", "Graphic Design", "Motion", "Game"],
+      "list": ["UI", "UX", "Art direction", "Graphic", "Motion", "Game"],
       "noResults": "No projects found for this filter."
     },
     "card": {
@@ -39,10 +45,13 @@
   "projectDetail": {
     "notFound": {
       "error": "Project not found",
-      "return": "Return to projects"
+      "return": "Back to projects"
+    },
+    "toc": {
+      "backButton": "Back"
     },
     "overview": {
-      "timeline": "Duration",
+      "timeline": "Timeline",
       "team": "Team",
       "role": "Role",
       "tools": "Tools"
@@ -50,8 +59,8 @@
     "pdfFlipbook": {
       "loading": "Loading document…",
       "error": {
-        "didntLoad": "Unable to load PDF.",
-        "openInstead": "Open directly"
+        "didntLoad": "Couldn't load the PDF.",
+        "openInstead": "Open it directly"
       },
       "ready": {
         "openDoc": "Open document",
@@ -60,7 +69,7 @@
       }
     },
     "otherProjects": {
-      "title": "Discover also...",
+      "title": "Discover more...",
       "backToTop": "Back to top"
     }
   },

@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
+import { useParams } from "react-router"
 import { ArrowLeft } from "lucide-react";
+import { getUiTranslation } from "../utils/getUiTranslation";
 
 function handleTocClick(e, id) {
   e.preventDefault();
@@ -17,6 +19,8 @@ export default function TableOfContents({
   projectColor = "var(--marine-clair)" 
 }) {
   const [activeId, setActiveId] = useState(sections[0]?.id);
+  const { lang } = useParams();
+  const t = getUiTranslation(lang);
 
   useEffect(() => {
     const observer = new IntersectionObserver(
@@ -48,7 +52,7 @@ export default function TableOfContents({
         bg-none hover:bg-(--marine-clair) transition"
       >
         <ArrowLeft size={16} /> 
-        Back
+        {t.projectDetail.toc.backButton}
       </button>
 
       <ul className="flex flex-col gap-3">

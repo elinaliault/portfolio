@@ -116,16 +116,16 @@ export default function Home() {
                 hidden sm:inline"
                 aria-hidden="true"
             >
-                UI design
+                {t.home.keywords.ui}
             </span>
             <span 
                 className="text-base text-(--marine) bg-(--marine-clair) px-1
-                absolute top-26 -right-10
+                absolute top-26 -right-14
                 rotate-16
                 hidden sm:inline"
                 aria-hidden="true"
             >
-               Graphisme
+               {t.home.keywords.graphic}
             </span>
             <span 
                 className="text-base text-(--marine) bg-(--marine-clair) px-1
@@ -135,7 +135,7 @@ export default function Home() {
                 hidden sm:inline"
                 aria-hidden="true"
             >
-               UX design
+               {t.home.keywords.ux}
             </span>
             {/* mobile only */}
              <span 
@@ -155,21 +155,21 @@ export default function Home() {
                 className="text-sm text-(--marine) bg-(--marine-clair) px-1"
                 aria-hidden="true"
             >
-                UX design
+                {t.home.keywords.ux}
             </span>
             {" ✽ "}
             <span 
                 className="text-sm text-(--marine) bg-(--marine-clair) px-1"
                 aria-hidden="true"
             >
-               UI design
+               {t.home.keywords.ui}
             </span>
             {" ✽ "}
             <span 
                 className="text-sm text-(--marine) bg-(--marine-clair) px-1"
                 aria-hidden="true"
             >
-               Graphisme
+               {t.home.keywords.graphic}
             </span>
             
         </p>

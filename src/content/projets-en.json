@@ -1,74 +1,450 @@
 [
-  {
-    "url": "l360-identity",
-    "projectColor": "#EFD2D2",
-    "coverUrl": "https://cdn.liasse360.fr/static/website/logo/liasse360-couleurs.svg",
-    "title": "Visual Identity",
-    "description": "establishing brand recognition across communications",
-    "isSchool": false,
-    "orgName": "Liasse 360",
-    "endDate": "2026",
-    "types": ["Graphic Design", "AD", "Motion", "Print", "UI"],
-    "sections": [
-      {
-        "type": "image",
-        "src": "https://cdn.liasse360.fr/static/website/logo/liasse360-couleurs.svg",
-        "size": "full"
-      }
-    ]
-  },
-  {
-    "url": "captaine",
-    "projectColor": "#AFDFD5",
-    "coverUrl": "/projectsAssets/cover2.jpg",
-    "title": "Cap’taine",
-    "description": "the collaborative game where you make do with what you have",
-    "descriptionWithMark": "the <mark>collaborative game</mark> where you make do with what you have",
-    "isSchool": true,
-    "orgName": "Gobelins Paris",
-    "endDate": "2026",
-    "types": ["Game Design", "AD", "Narration", "Writing"],
-    "sections": [
-      {
-        "type": "image",
-        "src": "/projectsAssets/cover2.jpg",
-        "size": "full"
-      },
-      {
-        "type": "overview",
-        "id": "overview",
-        "label": "Overview",
-        "title": "Section Title",
-        "paragraph": "Introductory paragraph",
-        "timeline": "6 months",
-        "team": "Lou CARDON, Fabrizio MANETTI, Aurore SERGENT, Akira VALADE",
-        "role": "AD, Writing, Print",
-        "tools": ["Figma", "Word"]
-      },
-      {
-        "type": "titleParagraph",
-        "id": "problem",
-        "label": "Problem",
-        "title": "Research",
-        "paragraph": "We conducted visual research..."
-      },
-      {
-        "type": "image",
-        "src": "/projectsAssets/cover2.jpg",
-        "caption": "Moodboard",
-        "size": "full"
-      },
-      {
-        "type": "titleParagraph",
-        "id": "regles",
-        "label": "Rules",
-        "title": "Game Rules",
-        "paragraph": "And here is how we came up with these game rules:"
-      },
-      {
-        "type": "pdf",
-        "src": "/projectsAssets/regles-captaine.pdf"
-      }
-    ]
-  }
+    {
+        "url": "l360-identity",
+        "projectColor": "#EFD2D2",
+        "coverUrl": "/projectsAssets/l360-identity/l360-colors.png",
+        "title": "Liasse 360",
+        "description": "Creating a recognizable visual identity",
+        "descriptionWithMark": "Creating a recognizable <mark>visual identity</mark>",
+        "isSchool": false,
+        "orgName": "Liasse 360",
+        "endDate": "2026",
+        "types": ["Graphic design", "Art direction", "Motion", "Print", "UI"],
+        "sections": [
+            {
+            "type": "image",
+            "src": "/projectsAssets/l360-identity/l360-colors.png",
+            "size": "full"
+            },
+            {
+            "type": "overview",
+            "id": "overview",
+            "label": "Overview",
+            "title": "Section title",
+            "paragraph": "Introduction paragraph",
+            "timeline": "2 years",
+            "team": "Sole designer </br> With the input and approval of the directors and the project lead",
+            "role": "Brand guidelines design </br>Showcase website mockups </br>Brand communication materials",
+            "tools": ["Figma", "Illustrator", "After Effects", "Premier Pro"]
+            }
+        ]
+    },
+    {
+        "url": "captaine",
+        "projectColor": "#AFDFD5",
+        "coverUrl": "/projectsAssets/captaine/cap-boite.png",
+        "title": "Cap'taine",
+        "description": "The collaborative game where you make do with what you've got",
+        "descriptionWithMark": "The <mark>collaborative game</mark> where you make do with what you've got",
+        "isSchool": true,
+        "orgName": "Gobelins Paris",
+        "endDate": "2026",
+        "types": ["Game design", "Art direction", "Storytelling", "Writing"],
+        "sections": [
+            {
+            "type": "image",
+            "src": "/projectsAssets/captaine/cap-boite.png",
+            "size": "full"
+            },
+            {
+            "type": "overview",
+            "id": "overview",
+            "label": "Overview",
+            "title": "Section title",
+            "paragraph": "Introduction paragraph",
+            "timeline": "6 months",
+            "team": "Designers: Lou CARDON, Aurore SERGENT </br> Developers: Fabrizio MANETTI, Akira VALADE",
+            "role": "Contributed to the game design and art direction </br> Wrote the narrative and the game rules </br> Designed the rulebook",
+            "tools": ["Figma", "InDesign"]
+            },
+            {
+            "type": "titleParagraph",
+            "id": "problem",
+            "label": "Problem",
+            "title": "Research",
+            "paragraph": "We did some graphic research..."
+            },
+            {
+            "type": "titleParagraph",
+            "id": "regles",
+            "label": "Rules",
+            "title": "The rules of the game",
+            "paragraph": "And here's how we arrived at these rules:"
+            },
+            {
+            "type": "pdf",
+            "src": "/projectsAssets/captaine/regles-captaine.pdf"
+            }
+        ]
+    },
+    {
+        "url": "coolisses",
+        "projectColor": "#D9CAF1",
+        "coverUrl": "/projectsAssets/coolisses/coolisses-cover.png",
+        "title": "Coolisses",
+        "description": "The app that helps you discover new musicians in a different way",
+        "descriptionWithMark": "The app that helps you <mark>discover new musicians</mark> in a different way",
+        "isSchool": true,
+        "orgName": "Gobelins Paris",
+        "endDate": "2025",
+        "types": ["App", "UX design", "UI design", "Art direction"],
+        "sections": [
+            {
+            "type": "image",
+            "src": "/projectsAssets/coolisses/coolisses-cover.png",
+            "size": "full"
+            },
+            {
+            "type": "overview",
+            "id": "overview",
+            "label": "Overview",
+            "paragraph": "Coolisses is the intimate app that lets you <mark>discover emerging artists through their creative process</mark> while taking the time to build a special bond with them.",
+            "timeline": "1 month",
+            "team": "Designers: Lou CARDON </br> Developers: Françoise PHAM, César SAINT-LO",
+            "role": "Helped develop the concept </br> Helped design and prototype the user experience and interface </br> Wrote and ran the usability tests",
+            "tools": ["Figma"]
+            },
+            {
+            "type": "titleParagraph",
+            "id": "brief",
+            "label": "Brief",
+            "title": "Designing an app...",
+            "paragraph": "For this project, we had to design an app with <mark>innovative interactions.</mark> We had to start from a type of everyday app, music apps, and create a concept that gives the user a <mark>new way of approaching the subject</mark>."
+            },
+            {
+            "type": "titleParagraph",
+            "id": "benchmark",
+            "label": "Benchmark",
+            "title": "Music apps: our analysis",
+            "paragraph": "Analyzing the best-known music apps, we realized that many were <mark>centered on the player</mark> and that they <mark>almost exclusively recommended artists people already knew.</mark> </br></br>We also found that the suggestions were <mark>heavily dependent on the user's existing listening habits,</mark> <mark>keeping them in their comfort zone</mark> and preventing them from experimenting with new genres or artists."
+            },
+            {
+            "type": "image",
+            "src": "/projectsAssets/coolisses/benchmark-ecrans.png",
+            "caption": "Analysis of music app screens.",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Framing the problem",
+            "paragraph": "So we asked ourselves <mark>how we could broaden our musical horizons</mark> when player apps deliberately keep us in a musical echo chamber."
+            },
+            {
+            "type": "titleParagraph",
+            "id": "concept",
+            "label": "Concept",
+            "title": "The pitch",
+            "paragraph": "The concept we drew from this question is to introduce music lovers to <mark>young artists</mark> <mark>through their creative process</mark> via an <mark>intimate app</mark> that lets them <mark>take their time and build a special bond with the artists.</mark>"
+            },
+            {
+            "type": "image",
+            "src": "/projectsAssets/coolisses/name.png",
+            "caption": "An app that takes you behind the scenes with emerging artists.",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Target audiences",
+            "paragraph": "The app is aimed equally at <mark>music lovers</mark> and <mark>emerging musical artists,</mark> letting the former discover new artists and the latter get noticed."
+            },
+            {
+            "type": "image",
+            "src": "/projectsAssets/coolisses/personas.png",
+            "caption": "Personas explaining the project's two target audiences.",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "title": "What type of content?",
+            "paragraph": "We drew inspiration from a specific type of content and designed the app to host it: <mark>short, vertical videos showing artists behind the scenes,</mark> especially their music-making process."
+            },
+            {
+            "type": "titleParagraph",
+            "title": "A distinctive tone",
+            "paragraph": "We wanted the app to offer an <mark>intimate</mark> yet <mark>respectful</mark> experience, made of <mark>gentle information</mark> and <mark>contemplative exploration.</mark> </br></br> To do this, we drew inspiration from several apps that embody some of these principles, notably meditation apps."
+            },
+            {
+            "type": "image",
+            "src": "/projectsAssets/coolisses/applis-ton.png",
+            "caption": "A few apps that inspired the experience we created.",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Project scope",
+            "paragraph": "Our concept includes two apps: the first for the general public to discover new artists, the second for the artists themselves to share their content. Given the limited duration of this project, we focused on the public-facing app, as it best illustrates our concept."
+            },
+            {
+            "type": "titleParagraph",
+            "id": "process",
+            "label": "Design process",
+            "title": "User experience",
+            "paragraph": "We built the app around <mark>one core feature</mark>: discovering <mark>one random artist per day.</mark> </br></br> We started by <mark>mapping out the features</mark> we wanted to develop to bring our concept and vision to life."
+            },
+            {
+            "type": "image",
+            "src": "/projectsAssets/coolisses/userflow.png",
+            "caption": "Map of the screens and features.",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "paragraph": "We then used this map to create <mark>wireframes,</mark> showing how elements are positioned on the app's screens."
+            },
+            {
+            "type": "image",
+            "src": "/projectsAssets/coolisses/wireframes.png",
+            "caption": "The wireframes of the app's screens.",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Moodboard",
+            "paragraph": "Inspired by the atmosphere of a recording studio"
+            },
+            {
+            "type": "image",
+            "src": "/projectsAssets/coolisses/moodboard.png",
+            "caption": "Moodboard of the recording studio atmosphere",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Visual identity",
+            "paragraph": "..."
+            },
+            {
+            "type": "video",
+            "src": "/projectsAssets/coolisses/animlogo.mp4",
+            "poster": "/projectsAssets/coolisses/animlogo-poster.png",
+            "caption": "Animated logo of the Coolisses app",
+            "autoplay": true,
+            "loop": true
+            },
+            {
+            "type": "imageGrid",
+            "columns": 2,
+            "images": [
+                { "src": "/projectsAssets/coolisses/colors.png" },
+                { "src": "/projectsAssets/coolisses/typos.png"},
+                { "src": "/projectsAssets/coolisses/icons.png" },
+                { "src": "/projectsAssets/coolisses/components.png" }
+            ]
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Coolisses Studio",
+            "paragraph": "..."
+            },
+            {
+            "type": "video",
+            "src": "/projectsAssets/coolisses/coolisses-studio-anim.mp4",
+            "poster": "/projectsAssets/coolisses/coolisses-studio-poster.png",
+            "caption": "Animated logo of the Coolisses Studio app",
+            "autoplay": true,
+            "loop": true
+            },
+            {
+            "type": "titleParagraph",
+            "id": "prototype",
+            "label": "Prototype",
+            "title": "A discovery app...",
+            "paragraph": "..."
+            },
+            {
+            "type": "video",
+            "src": "/projectsAssets/coolisses/prototype-with-bg.mp4",
+            "poster": "/projectsAssets/coolisses/prototype-poster.png",
+            "caption": "Animated prototype of the Coolisses app.",
+            "autoplay": true,
+            "loop": true
+            },
+            {
+            "type": "titleParagraph",
+            "id": "tests",
+            "label": "Usability tests",
+            "title": "Writing and running the tests",
+            "paragraph": "Blah blah writing blah blah. Blah blah running the sessions."
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Test conclusions",
+            "paragraph": "These tests showed us that some interactions that differ a bit from the standards weren't always intuitive for users, and that tutorials explaining them were necessary."
+            },
+            {
+            "type": "video",
+            "src": "/projectsAssets/coolisses/tuto-with-bg.mp4",
+            "poster": "/projectsAssets/coolisses/tuto-poster.png",
+            "caption": "Tutorial explaining the interactions.",
+            "autoplay": true,
+            "loop": true
+            },
+            {
+            "type": "titleParagraph",
+            "id": "bilan",
+            "label": "Retrospective",
+            "title": "Retrospective",
+            "paragraph": "..."
+            }
+        ]
+    },
+    {
+        "url": "memoire",
+        "coverUrl": "/projectsAssets/memoire-dnmade/memoire-cover.png",
+        "title": "Dissertation",
+        "description": "Social movements and communication media",
+        "descriptionWithMark": "<mark>Social movements</mark> and communication media",
+        "isSchool": true,
+        "orgName": "DNMADE",
+        "endDate": "2024",
+        "types": ["Documentation", "Writing", "Layout"],
+        "sections": [
+            {
+            "type": "overview",
+            "id": "overview",
+            "label": "Overview",
+            "timeline": "6 months",
+            "team": "Solo",
+            "role": "Desk research, writing and layout"
+            },
+            {
+            "type": "titleParagraph",
+            "id": "brief",
+            "label": "Brief",
+            "title": "Assignment requirements",
+            "paragraph": "In the final year of the DNMADE, we were asked to write a <mark>dissertation of about 15,000 characters</mark> on a topic of our choice related to our specialization. It then had to be presented orally to a jury."
+            },
+            {
+            "type": "titleParagraph",
+            "id": "memoire",
+            "label": "Dissertation",
+            "title": "Presentation booklet",
+            "paragraph": "For this assignment, I chose to talk about the <mark>communication media used by social movements and how they have evolved since the advent of the internet.</mark> To find out more, check out my dissertation below:"
+            },
+            {
+            "type": "pdf",
+            "src": "/projectsAssets/memoire-dnmade/livret-memoire.pdf"
+            }
+        ]
+    },
+    {
+        "url": "violet",
+        "projectColor": "#DEC7EA",
+        "coverUrl": "/projectsAssets/violet/violet-cover.png",
+        "title": "Violet",
+        "description": "Illustrating the symbolism of a color",
+        "descriptionWithMark": "Illustrating the <mark>symbolism</mark> of a color",
+        "isSchool": true,
+        "orgName": "DNMADE",
+        "endDate": "2023",
+        "types": ["Motion design", "Sound design"],
+        "sections": [
+            {
+            "type": "overview",
+            "id": "overview",
+            "label": "Overview",
+            "paragraph": "<mark>How do you visually represent the symbolism of a color?</mark> That was the central question of this project. </br>My partner and I tried, through a <mark>30-second short film,</mark> to represent the symbolism of our chosen color: <mark>violet.</mark>",
+            "timeline": "1 week",
+            "team": "Paired with Daria Molchanova",
+            "role": "Contributed to ideation and filming </br> Video editing and sound design",
+            "tools": ["After Effects"]
+            },
+            {
+            "type": "titleParagraph",
+            "id": "research",
+            "label": "Research",
+            "title": "The symbolism of violet",
+            "paragraph": "To start, we gathered everything that <mark>made us think of violet</mark> and its symbolism."
+            },
+            {
+            "type": "image",
+            "src": "/projectsAssets/violet/moodboard.png",
+            "caption": "Moodboard showing the different symbolisms of violet.",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "id": "ideation",
+            "label": "Ideation",
+            "title": "Illustrating a symbolism",
+            "paragraph": "Drawing on the different symbolisms of violet, we explored <mark>various ideas for visual representations.</mark> Four scenes emerged, which we then filmed."
+            },
+            {
+            "type": "imageGrid",
+            "columns": 2,
+            "images": [
+                { "src": "/projectsAssets/violet/poster-video.png", "caption": "Mystery of space" },
+                { "src": "/projectsAssets/violet/flowers.png", "caption": "Tranquility" },
+                { "src": "/projectsAssets/violet/magic-ball.png", "caption": "Magic & Spirituality" },
+                { "src": "/projectsAssets/violet/crown.png", "caption": "Royalty" }
+            ]
+            },
+            {
+            "type": "titleParagraph",
+            "id": "assembly",
+            "label": "Editing",
+            "title": "Putting the pieces together",
+            "paragraph": "Once filming was done, I collected and sorted all the <mark>takes</mark> and then <mark>assembled</mark> them. This is also when I created the <mark>magic sphere</mark>. </br>I also added the small sounds that build a <mark>sound atmosphere</mark> supporting the visual representation."
+            },
+            {
+            "type": "image",
+            "src": "/projectsAssets/violet/assembly.png",
+            "caption": "Editing timeline in After Effects.",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "id": "final",
+            "label": "Final video",
+            "title": "An animated illustration...",
+            "paragraph": "This process allowed us to <mark>represent the symbolism of violet</mark> through visual, animated and sound elements, while <mark>immersing the viewer in the world of this color.</mark>"
+            },
+            {
+            "type": "video",
+            "src": "/projectsAssets/violet/final-video.mp4",
+            "poster": "/projectsAssets/violet/poster-video.png",
+            "caption": "Short film on the symbolism of violet."
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Retrospective",
+            "paragraph": "By going through every stage of making a video, this project gave me a full picture of the process while letting me deepen my mastery of After Effects."
+            }
+            
+        ]
+    },
+    {
+        "url": "maif",
+        "projectColor": "#FECFD1",
+        "coverUrl": "/projectsAssets/maif/maif-cover.png",
+        "title": "MAIF",
+        "description": "Internship report",
+        "descriptionWithMark": "Internship <mark>report</mark>",
+        "isSchool": false,
+        "orgName": "MAIF",
+        "endDate": "2023",
+        "types": ["UI design", "Design system", "Email design"],
+        "sections": [
+            {
+            "type": "overview",
+            "id": "overview",
+            "label": "Overview",
+            "timeline": "3 months",
+            "team": "Design System squad at the Digital Factory",
+            "role": "Helped manage the pictogram libraries </br> Designed mockups of marketing emails",
+            "tools": ["Figma", "Illustrator"]
+            },
+            {
+            "type": "titleParagraph",
+            "id": "missions",
+            "label": "Missions",
+            "title": "Presentation booklet",
+            "paragraph": "During my internship at MAIF, I had the opportunity to work on the <mark>design system's pictogram libraries</mark> and to mock up <mark>marketing emails.</mark> </br></br>To learn more about my missions, read my internship report:"
+            },
+            {
+            "type": "pdf",
+            "src": "/projectsAssets/maif/maif-rapport.pdf"
+            }
+        ]
+    }
 ]
