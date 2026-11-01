@@ -73,7 +73,7 @@ export default function Projects() {
                 </p>
 
                 {/* Filter bar */}
-                <div className="flex flex-wrap justify-center gap-2 sm:gap-3 mb-16 px-4">
+                <div className="flex flex-wrap justify-center gap-2 sm:gap-3 mb-12 px-4">
                     <FilterPill
                         text={t.projects.filters.all}
                         variant={activeFilter === "all" ? "primary" : "secondary"}
@@ -92,7 +92,7 @@ export default function Projects() {
 
             {filteredProjects.length > 0 ? (
                 <div className="grid grid-cols-1 sm:grid-cols-2 
-                gap-12 md:gap-18 mb-20">
+                gap-12 md:gap-18 mb-48">
                     {filteredProjects.map((project, index) => (
                         <ProjectCard
                             key={project.url ?? index}
