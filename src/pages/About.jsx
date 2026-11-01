@@ -21,6 +21,7 @@ export default function About() {
   const t = getUiTranslation(lang);
   const about = getAbout(lang);
   const projects = getProjects(lang);
+  const collapseSubtitles = about.collapseSubtitles;
 
   return (
     <>
@@ -81,7 +82,8 @@ export default function About() {
                         projects, 
                         lang
                     )}
-                    defaultOpen={index === 0} // Keeps the first item open by default like the photo!
+                    defaultOpen={index === 0} // Keeps the first item open by default 
+                    collapseSubtitles={collapseSubtitles.work}
                 />
             ))}
         </div>
@@ -103,6 +105,7 @@ export default function About() {
                         projects, 
                         lang
                     )}
+                    collapseSubtitles={collapseSubtitles.school}
                 />
             ))}
         </div>

@@ -27,6 +27,16 @@
     "tags": ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"]
   }]
   },
+  "collapseSubtitles": {
+    "work": {
+      "description": "Missions",
+      "projects": "Projets"
+    },
+    "school": {
+      "description": "Description",
+      "projects": "Projets"
+    }
+  },
   "work": {
     "sectionTitle": "Expériences",
     "content": [
@@ -37,7 +47,7 @@
       "relatedOrg": "Liasse 360",
       "subtitle": "UX/UI Designer",
       "date": "Septembre 2024 - Août 2026",
-      "description": "Création de la charte graphique et des visuels de communication de la marque. Conception de l'interface et de l'expérience utilisateur du logiciel SaaS et du site vitrine."
+      "description": ["Responsable des projets de design de l'entreprise", "Création de la charte graphique de la marque", "Constitution d'une librairie de pictogrammes et d'un design système", "Réalisation de supports de communication numériques, animés et imprimés", "Maquettage de l'interface utilisateur du site vitrine", "Traduction du concept en une expérience utilisateur cohérente et une interface logiciel SaaS intuitive"]
     },
     {
       "id": 2,
@@ -46,7 +56,7 @@
       "relatedOrg": "MAIF",
       "subtitle": "UI Designer",
       "date": "Mai - Juillet 2023",
-      "description": "Gestion de librairies de pictogrammes et de composants. Création et retouches de pictogrammes. Maquettage d'email commerciaux."
+      "description": ["Gestion de librairies de pictogrammes et de composants du design système", "Création et retouches de pictogrammes", "Maquettage d'email commerciaux"]
     },
     {
       "id": 3,
@@ -55,7 +65,7 @@
       "relatedOrg": "Meubles CELIO",
       "subtitle": "Designer graphique",
       "date": "Juillet 2022",
-      "description": "Maquettage de goodies et de posts pour les réseaux sociaux. Réalisation de mockups des éléments graphiques prévus pour les espaces de la marque."
+      "description": ["Maquettage de goodies et de posts pour les réseaux sociaux", "Réalisation de mockups des éléments graphiques prévus pour les espaces de la marque"]
     },
     {
       "id": 4,
@@ -64,7 +74,7 @@
       "relatedOrg": "Mairie de Niort",
       "subtitle": "Designer graphique",
       "date": "Juin 2022",
-      "description": "Création d'une charte graphique pour un service interne. Mise en page de la newsletter, d'affiches et de documents internes."
+      "description": ["Création d'une charte graphique pour un service interne", "Mise en page de la newsletter, d'affiches et de documents internes"]
     }
   ]},
   "school": {
@@ -77,7 +87,7 @@
       "subtitle": "Gobelins Paris",
       "relatedOrg": "Gobelins Paris",
       "date": "Septembre 2024 - Juin 2026",
-      "description": "Cette formation (RNCP niveau 7) m'a permis d'affiner mes compétences et de réaliser des projects variés en équipes."
+      "description": ["Formation RNCP niveau 7", "M'a permis d'affiner mes compétences et de réaliser des projects variés en équipes."]
     },
     {
       "id": 2,
@@ -86,7 +96,7 @@
       "subtitle": "Lycée La Tourrache",
       "relatedOrg": "DNMADE",
       "date": "Septembre 2021 - Juin  2024",
-      "description": "Durant la préparation de ce diplôme national (grade licence), j'ai appris les bases du design avec une spécialisation de design numérique."
+      "description": ["Diplôme national des métiers d'art et de design (grade licence)", "J'y ai appris les bases du design avec une spécialisation en design numérique."]
     }
     ]
   }

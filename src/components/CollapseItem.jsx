@@ -54,8 +54,11 @@ export function CollapseItem({
     relatedProjects = [],
     ToggleIcon = PlusGraphicIcon,
     defaultOpen = false,
+    collapseSubtitles
 }) {
     const [isOpen, setIsOpen] = useState(defaultOpen);
+
+
 
     return (
         <div className="w-full border-b-2 border-(--border) last:border-b-0 
@@ -120,20 +123,37 @@ export function CollapseItem({
                 }`}
             >
                 <div className="overflow-hidden flex flex-col gap-3">
-                    <p
+                    {/* <p
                     className="text-left m-0 text-sm sm:text-base text-(--marine)"
                     dangerouslySetInnerHTML={{ __html: description }}
-                    />
+                    /> */}
+                    {description && (
+                        <div className="flex flex-col gap-3 text-left mb-4">
+                            <p className="bg-(--marine-clair) w-fit px-1">{collapseSubtitles.description}</p>
+                            <ul className="flex flex-col gap-2 text-left 
+                            list-disc pl-5">
+                                {description.map((listItem, index) => (
+                                    <li key={index} >
+                                        {listItem}
+                                    </li>
+                                ))}
+                            </ul>
+                        </div>
+                    )}
 
                     {relatedProjects.length > 0 && (
-                        <div className="flex flex-col gap-3">
-                            {relatedProjects.map((project) => (
-                                <RelatedProjectChip
-                                    key={project.url ?? project.label}
-                                    label={project.label}
-                                    url={project.url}
-                                />
-                            ))}
+                        <div className="flex flex-col gap-3 text-left">
+                            <p className="bg-(--marine-clair) w-fit px-1">{collapseSubtitles.projects}</p>
+                            <div className="flex flex-col gap-2">
+                                {relatedProjects.map((project) => (
+                                    <RelatedProjectChip
+                                        key={project.url ?? project.label}
+                                        label={project.label}
+                                        url={project.url}
+                                    />
+                                ))}
+                            </div>
+                            
                         </div>
                     )}
                 </div>
