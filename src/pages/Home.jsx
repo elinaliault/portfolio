@@ -86,38 +86,11 @@ export default function Home() {
 
   return (
     <>
-      <div className="text-left w-fit m-auto py-6">
+      <div className="text-left w-fit m-auto py-6 flex flex-col">
         <div className="relative inline-block mt-26 mb-7">
             <h1 className="font-(family-name:--heading)
             text-(--marine) text-4xl sm:text-7xl"
             dangerouslySetInnerHTML={{ __html: t.home.pagesTitle }} />
-            {/* <span 
-                className="text-[3rem] text-(--marine-clair) 
-                absolute -top-6.5 -left-4.5
-                rotate-[-16deg]
-                hidden sm:inline"
-                aria-hidden="true"
-            >
-                ✽
-            </span> */}
-            {/* <span 
-                className="text-[3rem] text-(--marine-clair) 
-                absolute -top-10 -left-8
-                rotate-[-16deg]
-                hidden sm:inline"
-                aria-hidden="true"
-            >
-                ✽
-            </span> */}
-            {/* <span 
-                className="text-[2.5rem] text-(--marine-clair) 
-                absolute top-1.5 -left-10
-                rotate-[-16deg]
-                hidden sm:inline"
-                aria-hidden="true"
-            >
-                ✽
-            </span> */}
              <span 
                 className="text-[2.5rem] text-(--marine-clair) 
                 absolute top-10 -right-22
@@ -154,7 +127,6 @@ export default function Home() {
             >
                Graphisme
             </span>
-            {/* top-10 -right-30 */}
             <span 
                 className="text-base text-(--marine) bg-(--marine-clair) px-1
                 absolute 
@@ -165,9 +137,42 @@ export default function Home() {
             >
                UX design
             </span>
+            {/* mobile only */}
+             <span 
+                className="text-[2.5rem] text-(--marine-clair) 
+                absolute -top-8 left-94
+                rotate-[-16deg]
+                inline sm:hidden"
+                aria-hidden="true"
+            >
+                ✽
+            </span>
         </div>
         <p className="text-base sm:text-lg">{t.home.pagesSubtitle} </p>
-        
+        {/* mobile only */}
+        <p className="inline sm:hidden pt-4">
+            <span 
+                className="text-sm text-(--marine) bg-(--marine-clair) px-1"
+                aria-hidden="true"
+            >
+                UX design
+            </span>
+            {" ✽ "}
+            <span 
+                className="text-sm text-(--marine) bg-(--marine-clair) px-1"
+                aria-hidden="true"
+            >
+               UI design
+            </span>
+            {" ✽ "}
+            <span 
+                className="text-sm text-(--marine) bg-(--marine-clair) px-1"
+                aria-hidden="true"
+            >
+               Graphisme
+            </span>
+            
+        </p>
       </div>
 
       <ScrollIndicator
