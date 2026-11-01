@@ -13,7 +13,7 @@ function RecentProjects() {
     const recentProjects = projects.slice(0, 4);
 
     return (
-        <section className="px-4 my-44">
+        <section className="px-4 mb-44">
             {/* Header row: title + subtitle */}
             <div className="flex flex-col gap-2 text-left mb-10">
                 <h2 className="w-fit px-2 m-0
@@ -86,21 +86,41 @@ export default function Home() {
 
   return (
     <>
-      <div className="relative inline-block mt-26 mb-10">
-          <h1 className="font-(family-name:--heading)
-          text-(--marine) text-4xl sm:text-7xl text-center">
-              {t.home.pagesTitle}
-          </h1>
-          <span 
-              className="text-[4rem] text-(--marine-clair) 
-              absolute -top-11 -right-8.5
-              rotate-[-16deg]
-              hidden sm:inline"
-              aria-hidden="true"
-          >
-              ✽
-          </span>
-          <p>{t.home.pagesSubtitle} </p>
+      <div className="text-left w-fit m-auto py-6">
+        <div className="relative inline-block mt-26 mb-7">
+            <h1 className="font-(family-name:--heading)
+            text-(--marine) text-4xl sm:text-7xl"
+            dangerouslySetInnerHTML={{ __html: t.home.pagesTitle }} />
+            <span 
+                className="text-[4rem] text-(--marine-clair) 
+                absolute -top-18 -right-16
+                rotate-[-16deg]
+                hidden sm:inline"
+                aria-hidden="true"
+            >
+                ✽
+            </span>
+            <span 
+                className="text-base text-(--marine) bg-(--marine-clair) px-1
+                absolute -top-8 right-40
+                rotate-[-14deg]
+                hidden sm:inline"
+                aria-hidden="true"
+            >
+                UI design
+            </span>
+            <span 
+                className="text-base text-(--marine) bg-(--marine-clair) px-1
+                absolute top-26 -right-10
+                rotate-16
+                hidden sm:inline"
+                aria-hidden="true"
+            >
+               Graphisme
+            </span>
+        </div>
+        <p className="text-base sm:text-lg">{t.home.pagesSubtitle} </p>
+        
       </div>
 
       <ScrollIndicator
