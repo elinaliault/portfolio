@@ -43,7 +43,7 @@ export default function CaseStudyPage() {
         hidden sm:block">
           <TableOfContents
             sections={tocSections}
-            onBack={() => navigate(-1)}
+            onBack={() => navigate(`/${lang}/projets`)}
             projectColor={project.projectColor}
           />
         </aside>
