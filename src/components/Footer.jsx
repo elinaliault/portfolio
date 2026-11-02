@@ -57,7 +57,7 @@ export default function Footer() {
 
             {/* Logo + name + copyright */}
             <div className="flex flex-col gap-4">
-                <img src="./star.svg" alt="" className="w-12 h-12" />
+                <img src="./star-marine-clair.svg" alt="" className="w-12 h-12" />
                 <Link
                     to={`/${lang}/`}
                     className="w-fit px-1 bg-(--light-gray) hover:bg-(--marine-clair)
