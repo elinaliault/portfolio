@@ -34,7 +34,14 @@
     "pagesSubtitle": "Voici une selection des projets auxquels j'ai eu l'occasion de participer au cours des années.",
     "filters": {
       "all": "Tous",
-      "list": ["UI", "UX", "DA", "Graphisme", "Motion", "Game"],
+      "list": [
+        { "keyword": "UI", "pillText": "UI" }, 
+        { "keyword": "UX", "pillText": "UX" }, 
+        { "keyword": "DA", "pillText": "DA" }, 
+        { "keyword": "Graphisme", "pillText": "Graphisme" }, 
+        { "keyword": "Motion", "pillText": "Motion" }, 
+        { "keyword": "Game", "pillText": "Game" }
+      ],
       "noResults": "Aucun projet trouvé pour ce filtre."
     },
     "card": {

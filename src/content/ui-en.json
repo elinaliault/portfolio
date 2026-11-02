@@ -34,7 +34,14 @@
     "pagesSubtitle": "Here is a selection of the projects I've had the chance to work on over the years.",
     "filters": {
       "all": "All",
-      "list": ["UI", "UX", "Art direction", "Graphic", "Motion", "Game"],
+      "list": [
+        { "keyword": "UI", "pillText": "UI" }, 
+        { "keyword": "UX", "pillText": "UX" }, 
+        { "keyword": "direction", "pillText": "Art direction" }, 
+        { "keyword": "Graphic", "pillText": "Graphic design" }, 
+        { "keyword": "Motion", "pillText": "Motion" }, 
+        { "keyword": "Game", "pillText": "Game" }
+      ],
       "noResults": "No projects found for this filter."
     },
     "card": {

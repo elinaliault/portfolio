@@ -82,9 +82,9 @@ export default function Projects() {
                     {t.projects.filters.list.map((filter) => (
                         <FilterPill
                             key={filter}
-                            text={filter}
-                            variant={activeFilter === filter ? "primary" : "secondary"}
-                            onClick={() => setActiveFilter(filter)}
+                            text={filter.pillText}
+                            variant={activeFilter === filter.keyword ? "primary" : "secondary"}
+                            onClick={() => setActiveFilter(filter.keyword)}
                         />
                     ))}
                 </div>
