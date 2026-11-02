@@ -2,7 +2,7 @@
     {
         "url": "l360-identity",
         "projectColor": "#EFD2D2",
-        "coverUrl": "/projectsAssets/l360-identity/l360-colors.png",
+        "coverUrl": "./projectsAssets/l360-identity/l360-colors.png",
         "title": "Liasse 360",
         "description": "Créer une identité visuelle reconnaissable",
         "descriptionWithMark": "Créer une <mark>identité visuelle</mark> reconnaissable",
@@ -13,7 +13,7 @@
         "sections": [
             {
             "type": "image",
-            "src": "/projectsAssets/l360-identity/l360-colors.png",
+            "src": "./projectsAssets/l360-identity/l360-colors.png",
             "size": "full"
             },
             {
@@ -32,7 +32,7 @@
     {
         "url": "captaine",
         "projectColor": "#AFDFD5",
-        "coverUrl": "/projectsAssets/captaine/cap-boite.png",
+        "coverUrl": "./projectsAssets/captaine/cap-boite.png",
         "title": "Cap'taine",
         "description": "Le jeu collaboratif où l'on fait avec les moyens du bord",
         "descriptionWithMark": "Le <mark>jeu collaboratif</mark> où l'on fait avec les moyens du bord",
@@ -43,7 +43,7 @@
         "sections": [
             {
             "type": "image",
-            "src": "/projectsAssets/captaine/cap-boite.png",
+            "src": "./projectsAssets/captaine/cap-boite.png",
             "size": "full"
             },
             {
@@ -73,14 +73,14 @@
             },
             {
             "type": "pdf",
-            "src": "/projectsAssets/captaine/regles-captaine.pdf"
+            "src": "./projectsAssets/captaine/regles-captaine.pdf"
             }
         ]
     },
     {
         "url": "coolisses",
         "projectColor": "#D9CAF1",
-        "coverUrl": "/projectsAssets/coolisses/coolisses-cover.png",
+        "coverUrl": "./projectsAssets/coolisses/coolisses-cover.png",
         "title": "Coolisses",
         "description": "L'app qui te fait découvrir de nouveau musiciens autrement",
         "descriptionWithMark": "L'app qui te fait <mark>découvrir de nouveau musiciens</mark> autrement",
@@ -91,7 +91,7 @@
         "sections": [
             {
             "type": "image",
-            "src": "/projectsAssets/coolisses/coolisses-cover.png",
+            "src": "./projectsAssets/coolisses/coolisses-cover.png",
             "size": "full"
             },
             {
@@ -120,7 +120,7 @@
             },
             {
             "type": "image",
-            "src": "/projectsAssets/coolisses/benchmark-ecrans.png",
+            "src": "./projectsAssets/coolisses/benchmark-ecrans.png",
             "caption": "Analyse d'écrans d'applications de musique.",
             "size": "full"
             },
@@ -138,7 +138,7 @@
             },
             {
             "type": "image",
-            "src": "/projectsAssets/coolisses/name.png",
+            "src": "./projectsAssets/coolisses/name.png",
             "caption": "Une application qui te fait découvrir les coolisses d'artistes émergents.",
             "size": "full"
             },
@@ -149,7 +149,7 @@
             },
             {
             "type": "image",
-            "src": "/projectsAssets/coolisses/personas.png",
+            "src": "./projectsAssets/coolisses/personas.png",
             "caption": "Explication sous forme de personas des deux publics cibles du projet.",
             "size": "full"
             },
@@ -165,7 +165,7 @@
             },
             {
             "type": "image",
-            "src": "/projectsAssets/coolisses/applis-ton.png",
+            "src": "./projectsAssets/coolisses/applis-ton.png",
             "caption": "Quelques applications dont nous nous sommes inspirés pour créé notre expérience.",
             "size": "full"
             },
@@ -183,7 +183,7 @@
             },
             {
             "type": "image",
-            "src": "/projectsAssets/coolisses/userflow.png",
+            "src": "./projectsAssets/coolisses/userflow.png",
             "caption": "Cartographie des écrans et fonctionnalités.",
             "size": "full"
             },
@@ -193,7 +193,7 @@
             },
             {
             "type": "image",
-            "src": "/projectsAssets/coolisses/wireframes.png",
+            "src": "./projectsAssets/coolisses/wireframes.png",
             "caption": "Les wireframes des écrans de l'application.",
             "size": "full"
             },
@@ -204,7 +204,7 @@
             },
             {
             "type": "image",
-            "src": "/projectsAssets/coolisses/moodboard.png",
+            "src": "./projectsAssets/coolisses/moodboard.png",
             "caption": "Moodboard de l'ambiance studio d’enregistrement",
             "size": "full"
             },
@@ -215,8 +215,8 @@
             },
             {
             "type": "video",
-            "src": "/projectsAssets/coolisses/animlogo.mp4",
-            "poster": "/projectsAssets/coolisses/animlogo-poster.png",
+            "src": "./projectsAssets/coolisses/animlogo.mp4",
+            "poster": "./projectsAssets/coolisses/animlogo-poster.png",
             "caption": "Logo animé de l'appli Coolisses",
             "autoplay": true,
             "loop": true
@@ -225,10 +225,10 @@
             "type": "imageGrid",
             "columns": 2,
             "images": [
-                { "src": "/projectsAssets/coolisses/colors.png" },
-                { "src": "/projectsAssets/coolisses/typos.png"},
-                { "src": "/projectsAssets/coolisses/icons.png" },
-                { "src": "/projectsAssets/coolisses/components.png" }
+                { "src": "./projectsAssets/coolisses/colors.png" },
+                { "src": "./projectsAssets/coolisses/typos.png"},
+                { "src": "./projectsAssets/coolisses/icons.png" },
+                { "src": "./projectsAssets/coolisses/components.png" }
             ]
             },
             {
@@ -238,8 +238,8 @@
             },
             {
             "type": "video",
-            "src": "/projectsAssets/coolisses/coolisses-studio-anim.mp4",
-            "poster": "/projectsAssets/coolisses/coolisses-studio-poster.png",
+            "src": "./projectsAssets/coolisses/coolisses-studio-anim.mp4",
+            "poster": "./projectsAssets/coolisses/coolisses-studio-poster.png",
             "caption": "Logo animé de l'appli Coolisses Studio",
             "autoplay": true,
             "loop": true
@@ -253,8 +253,8 @@
             },
             {
             "type": "video",
-            "src": "/projectsAssets/coolisses/prototype-with-bg.mp4",
-            "poster": "/projectsAssets/coolisses/prototype-poster.png",
+            "src": "./projectsAssets/coolisses/prototype-with-bg.mp4",
+            "poster": "./projectsAssets/coolisses/prototype-poster.png",
             "caption": "Prototype animé de l'application Coolisses.",
             "autoplay": true,
             "loop": true
@@ -273,8 +273,8 @@
             },
             {
             "type": "video",
-            "src": "/projectsAssets/coolisses/tuto-with-bg.mp4",
-            "poster": "/projectsAssets/coolisses/tuto-poster.png",
+            "src": "./projectsAssets/coolisses/tuto-with-bg.mp4",
+            "poster": "./projectsAssets/coolisses/tuto-poster.png",
             "caption": "Tutoriel expliquant les interactions.",
             "autoplay": true,
             "loop": true
@@ -290,7 +290,7 @@
     },
     {
         "url": "memoire",
-        "coverUrl": "/projectsAssets/memoire-dnmade/memoire-cover.png",
+        "coverUrl": "./projectsAssets/memoire-dnmade/memoire-cover.png",
         "title": "Mémoire",
         "description": "Mouvements sociaux et Supports de communication",
         "descriptionWithMark": "<mark>Mouvements sociaux</mark> et Supports de communication",
@@ -323,14 +323,14 @@
             },
             {
             "type": "pdf",
-            "src": "/projectsAssets/memoire-dnmade/livret-memoire.pdf"
+            "src": "./projectsAssets/memoire-dnmade/livret-memoire.pdf"
             }
         ]
     },
     {
         "url": "violet",
         "projectColor": "#DEC7EA",
-        "coverUrl": "/projectsAssets/violet/violet-cover.png",
+        "coverUrl": "./projectsAssets/violet/violet-cover.png",
         "title": "Violet",
         "description": "Illustrer la symbolique d'une couleur",
         "descriptionWithMark": "Illustrer la <mark>symbolique</mark> d'une couleur",
@@ -358,7 +358,7 @@
             },
             {
             "type": "image",
-            "src": "/projectsAssets/violet/moodboard.png",
+            "src": "./projectsAssets/violet/moodboard.png",
             "caption": "Moodboard reprenant les différents symboliques du violet.",
             "size": "full"
             },
@@ -373,10 +373,10 @@
             "type": "imageGrid",
             "columns": 2,
             "images": [
-                { "src": "/projectsAssets/violet/poster-video.png", "caption": "Mystère de l'espace" },
-                { "src": "/projectsAssets/violet/flowers.png", "caption": "Tranquillité" },
-                { "src": "/projectsAssets/violet/magic-ball.png", "caption": "Magie & Spiritualité" },
-                { "src": "/projectsAssets/violet/crown.png", "caption": "Royauté" }
+                { "src": "./projectsAssets/violet/poster-video.png", "caption": "Mystère de l'espace" },
+                { "src": "./projectsAssets/violet/flowers.png", "caption": "Tranquillité" },
+                { "src": "./projectsAssets/violet/magic-ball.png", "caption": "Magie & Spiritualité" },
+                { "src": "./projectsAssets/violet/crown.png", "caption": "Royauté" }
             ]
             },
             {
@@ -388,7 +388,7 @@
             },
             {
             "type": "image",
-            "src": "/projectsAssets/violet/assembly.png",
+            "src": "./projectsAssets/violet/assembly.png",
             "caption": "Table de montage dans After Effects.",
             "size": "full"
             },
@@ -401,8 +401,8 @@
             },
             {
             "type": "video",
-            "src": "/projectsAssets/violet/final-video.mp4",
-            "poster": "/projectsAssets/violet/poster-video.png",
+            "src": "./projectsAssets/violet/final-video.mp4",
+            "poster": "./projectsAssets/violet/poster-video.png",
             "caption": "Court métrage sur la symbolique du violet."
             },
             {
@@ -416,7 +416,7 @@
     {
         "url": "maif",
         "projectColor": "#FECFD1",
-        "coverUrl": "/projectsAssets/maif/maif-cover.png",
+        "coverUrl": "./projectsAssets/maif/maif-cover.png",
         "title": "MAIF",
         "description": "Rapport de stage",
         "descriptionWithMark": "<mark>Rapport</mark> de stage",
@@ -443,7 +443,7 @@
             },
             {
             "type": "pdf",
-            "src": "/projectsAssets/maif/maif-rapport.pdf"
+            "src": "./projectsAssets/maif/maif-rapport.pdf"
             }
         ]
     }

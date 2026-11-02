@@ -25,7 +25,7 @@
     "aboutText": "J’utilise mes capacités d'analyse et ma créativité pour concevoir des supports intuitifs et harmonieux.",
     "aboutButton": "En savoir plus",
     "aboutImg": {
-      "src": "/homePage/homeAboutIntroPhoto.png",
+      "src": "./homePage/homeAboutIntroPhoto.png",
       "alt": "Photo professionnelle"
     }
   },

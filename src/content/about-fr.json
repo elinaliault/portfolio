@@ -1,7 +1,7 @@
 {
   "presentation": {
     "HeroImg": {
-      "src": "/aboutPage/aboutCvPhoto.png",
+      "src": "./aboutPage/aboutCvPhoto.png",
       "alt": "Photo professionnelle"
     },
     "sectionTitle": "Designer UX/UI, je mets ma créativité au service de vos projets.",
@@ -42,7 +42,7 @@
     "content": [
     {
       "id": 1,
-      "icon": "/aboutPage/liasse360-logo.png",
+      "icon": "./aboutPage/liasse360-logo.png",
       "title": "Liasse 360",
       "relatedOrg": "Liasse 360",
       "subtitle": "UX/UI Designer",
@@ -51,7 +51,7 @@
     },
     {
       "id": 2,
-      "icon": "/aboutPage/maif-logo.png",
+      "icon": "./aboutPage/maif-logo.png",
       "title": "MAIF",
       "relatedOrg": "MAIF",
       "subtitle": "UI Designer",
@@ -60,7 +60,7 @@
     },
     {
       "id": 3,
-      "icon": "/aboutPage/meubles-celio-logo.png",
+      "icon": "./aboutPage/meubles-celio-logo.png",
       "title": "Meubles CELIO",
       "relatedOrg": "Meubles CELIO",
       "subtitle": "Designer graphique",
@@ -69,7 +69,7 @@
     },
     {
       "id": 4,
-      "icon": "/aboutPage/mairie-niort-logo.png",
+      "icon": "./aboutPage/mairie-niort-logo.png",
       "title": "Mairie de Niort",
       "relatedOrg": "Mairie de Niort",
       "subtitle": "Designer graphique",
@@ -82,7 +82,7 @@
     "content": [
     {
       "id": 1,
-      "icon": "/aboutPage/gobelins-logo.png",
+      "icon": "./aboutPage/gobelins-logo.png",
       "title": "Expert en Création Numérique Interactive",
       "subtitle": "Gobelins Paris",
       "relatedOrg": "Gobelins Paris",
@@ -91,7 +91,7 @@
     },
     {
       "id": 2,
-      "icon": "/aboutPage/tourrache-logo.png",
+      "icon": "./aboutPage/tourrache-logo.png",
       "title": "DNMADE Supports émergents",
       "subtitle": "Lycée La Tourrache",
       "relatedOrg": "DNMADE",

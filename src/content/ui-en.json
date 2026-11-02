@@ -25,7 +25,7 @@
     "aboutText": "I use my analytical skills and creativity to design intuitive, harmonious materials.",
     "aboutButton": "Learn more",
     "aboutImg": {
-      "src": "/homePage/homeAboutIntroPhoto.png",
+      "src": "./homePage/homeAboutIntroPhoto.png",
       "alt": "Professional photo"
     }
   },

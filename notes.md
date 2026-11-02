@@ -7,7 +7,7 @@
 "sections": [
     {
     "type": "image",
-    "src": "/projectsAssets/cover2.jpg",
+    "src": "./projectsAssets/cover2.jpg",
     "size": "full"
     },
     {
@@ -35,7 +35,7 @@
     },
     {
     "type": "image",
-    "src": "/projectsAssets/cover2.jpg",
+    "src": "./projectsAssets/cover2.jpg",
     "caption": "Moodboard",
     "size": "full"
     },
@@ -45,10 +45,10 @@
     "label": "Explorations",
     "columns": 2,
     "images": [
-        { "src": "/case-studies/playerpursuits/explore-1.jpg", "caption": "Early wireframe" },
-        { "src": "/case-studies/playerpursuits/explore-2.jpg", "caption": "Color exploration" },
-        { "src": "/case-studies/playerpursuits/explore-3.jpg" },
-        { "src": "/case-studies/playerpursuits/explore-4.jpg" }
+        { "src": "./case-studies/playerpursuits/explore-1.jpg", "caption": "Early wireframe" },
+        { "src": "./case-studies/playerpursuits/explore-2.jpg", "caption": "Color exploration" },
+        { "src": "./case-studies/playerpursuits/explore-3.jpg" },
+        { "src": "./case-studies/playerpursuits/explore-4.jpg" }
     ]
     },
     {
@@ -65,14 +65,14 @@
     "type": "video",
     "id": "prototype",
     "label": "Prototype",
-    "src": "/case-studies/playerpursuits/demo.mp4",
-    "poster": "/case-studies/playerpursuits/demo-poster.jpg",
+    "src": "./case-studies/playerpursuits/demo.mp4",
+    "poster": "./case-studies/playerpursuits/demo-poster.jpg",
     "caption": "Final booking flow prototype"
     },
     {
     "type": "pdf",
     "id": "styleguide",
     "label": "Style Guide",
-    "src": "/projectsAssets/regles-captaine.pdf"
+    "src": "./projectsAssets/regles-captaine.pdf"
     }
 ]
