@@ -23,8 +23,8 @@
             "title": "Section title",
             "paragraph": "Introduction paragraph",
             "timeline": "2 years",
-            "team": "Sole designer </br> With the input and approval of the directors and the project lead",
-            "role": "Brand guidelines design </br>Showcase website mockups </br>Brand communication materials",
+            "team": "Sole designer <br /> With the input and approval of the directors and the project lead",
+            "role": "Brand guidelines design <br />Showcase website mockups <br />Brand communication materials",
             "tools": ["Figma", "Illustrator", "After Effects", "Premier Pro"]
             }
         ]
@@ -53,8 +53,8 @@
             "title": "Section title",
             "paragraph": "Introduction paragraph",
             "timeline": "6 months",
-            "team": "Designers: Lou CARDON, Aurore SERGENT </br> Developers: Fabrizio MANETTI, Akira VALADE",
-            "role": "Contributed to the game design and art direction </br> Wrote the narrative and the game rules </br> Designed the rulebook",
+            "team": "Designers: Lou CARDON, Aurore SERGENT <br /> Developers: Fabrizio MANETTI, Akira VALADE",
+            "role": "Contributed to the game design and art direction <br /> Wrote the narrative and the game rules <br /> Designed the rulebook",
             "tools": ["Figma", "InDesign"]
             },
             {
@@ -100,8 +100,8 @@
             "label": "Overview",
             "paragraph": "Coolisses is the intimate app that lets you <mark>discover emerging artists through their creative process</mark> while taking the time to build a special bond with them.",
             "timeline": "1 month",
-            "team": "Designers: Lou CARDON </br> Developers: Françoise PHAM, César SAINT-LO",
-            "role": "Helped develop the concept </br> Helped design and prototype the user experience and interface </br> Wrote and ran the usability tests",
+            "team": "Designers: Lou CARDON <br /> Developers: Françoise PHAM, César SAINT-LO",
+            "role": "Helped develop the concept <br /> Helped design and prototype the user experience and interface <br /> Wrote and ran the usability tests",
             "tools": ["Figma"]
             },
             {
@@ -116,7 +116,7 @@
             "id": "benchmark",
             "label": "Benchmark",
             "title": "Music apps: our analysis",
-            "paragraph": "Analyzing the best-known music apps, we realized that many were <mark>centered on the player</mark> and that they <mark>almost exclusively recommended artists people already knew.</mark> </br></br>We also found that the suggestions were <mark>heavily dependent on the user's existing listening habits,</mark> <mark>keeping them in their comfort zone</mark> and preventing them from experimenting with new genres or artists."
+            "paragraph": "Analyzing the best-known music apps, we realized that many were <mark>centered on the player</mark> and that they <mark>almost exclusively recommended artists people already knew.</mark> <br /><br />We also found that the suggestions were <mark>heavily dependent on the user's existing listening habits,</mark> <mark>keeping them in their comfort zone</mark> and preventing them from experimenting with new genres or artists."
             },
             {
             "type": "image",
@@ -161,7 +161,7 @@
             {
             "type": "titleParagraph",
             "title": "A distinctive tone",
-            "paragraph": "We wanted the app to offer an <mark>intimate</mark> yet <mark>respectful</mark> experience, made of <mark>gentle information</mark> and <mark>contemplative exploration.</mark> </br></br> To do this, we drew inspiration from several apps that embody some of these principles, notably meditation apps."
+            "paragraph": "We wanted the app to offer an <mark>intimate</mark> yet <mark>respectful</mark> experience, made of <mark>gentle information</mark> and <mark>contemplative exploration.</mark> <br /><br /> To do this, we drew inspiration from several apps that embody some of these principles, notably meditation apps."
             },
             {
             "type": "image",
@@ -179,7 +179,7 @@
             "id": "process",
             "label": "Design process",
             "title": "User experience",
-            "paragraph": "We built the app around <mark>one core feature</mark>: discovering <mark>one random artist per day.</mark> </br></br> We started by <mark>mapping out the features</mark> we wanted to develop to bring our concept and vision to life."
+            "paragraph": "We built the app around <mark>one core feature</mark>: discovering <mark>one random artist per day.</mark> <br /><br /> We started by <mark>mapping out the features</mark> we wanted to develop to bring our concept and vision to life."
             },
             {
             "type": "image",
@@ -343,10 +343,10 @@
             "type": "overview",
             "id": "overview",
             "label": "Overview",
-            "paragraph": "<mark>How do you visually represent the symbolism of a color?</mark> That was the central question of this project. </br>My partner and I tried, through a <mark>30-second short film,</mark> to represent the symbolism of our chosen color: <mark>violet.</mark>",
+            "paragraph": "<mark>How do you visually represent the symbolism of a color?</mark> That was the central question of this project. <br />My partner and I tried, through a <mark>30-second short film,</mark> to represent the symbolism of our chosen color: <mark>violet.</mark>",
             "timeline": "1 week",
             "team": "Paired with Daria Molchanova",
-            "role": "Contributed to ideation and filming </br> Video editing and sound design",
+            "role": "Contributed to ideation and filming <br /> Video editing and sound design",
             "tools": ["After Effects"]
             },
             {
@@ -384,7 +384,7 @@
             "id": "assembly",
             "label": "Editing",
             "title": "Putting the pieces together",
-            "paragraph": "Once filming was done, I collected and sorted all the <mark>takes</mark> and then <mark>assembled</mark> them. This is also when I created the <mark>magic sphere</mark>. </br>I also added the small sounds that build a <mark>sound atmosphere</mark> supporting the visual representation."
+            "paragraph": "Once filming was done, I collected and sorted all the <mark>takes</mark> and then <mark>assembled</mark> them. This is also when I created the <mark>magic sphere</mark>. <br />I also added the small sounds that build a <mark>sound atmosphere</mark> supporting the visual representation."
             },
             {
             "type": "image",
@@ -431,7 +431,7 @@
             "label": "Overview",
             "timeline": "3 months",
             "team": "Design System squad at the Digital Factory",
-            "role": "Helped manage the pictogram libraries </br> Designed mockups of marketing emails",
+            "role": "Helped manage the pictogram libraries <br /> Designed mockups of marketing emails",
             "tools": ["Figma", "Illustrator"]
             },
             {
@@ -439,7 +439,7 @@
             "id": "missions",
             "label": "Missions",
             "title": "Presentation booklet",
-            "paragraph": "During my internship at MAIF, I had the opportunity to work on the <mark>design system's pictogram libraries</mark> and to mock up <mark>marketing emails.</mark> </br></br>To learn more about my missions, read my internship report:"
+            "paragraph": "During my internship at MAIF, I had the opportunity to work on the <mark>design system's pictogram libraries</mark> and to mock up <mark>marketing emails.</mark> <br /><br />To learn more about my missions, read my internship report:"
             },
             {
             "type": "pdf",

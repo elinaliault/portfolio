@@ -23,8 +23,8 @@
             "title": "Titre de cette partie",
             "paragraph": "Paragraph d'introduction",
             "timeline": "2 ans",
-            "team": "Seule designer </br> Avec la concertation et la validation des associés et du chef de projet",
-            "role": "Conception de la charte graphique </br>Maquettage du site vitrine </br>Réalisation des éléments de communication de la marque",
+            "team": "Seule designer <br /> Avec la concertation et la validation des associés et du chef de projet",
+            "role": "Conception de la charte graphique <br />Maquettage du site vitrine <br />Réalisation des éléments de communication de la marque",
             "tools": ["Figma", "Illustrator", "After Effects", "Premier Pro"]
             }
         ]
@@ -53,8 +53,8 @@
             "title": "Titre de cette partie",
             "paragraph": "Paragraph d'introduction",
             "timeline": "6 mois",
-            "team": "Designers : Lou CARDON, Aurore SERGENT </br> Développeurs : Fabrizio MANETTI, Akira VALADE",
-            "role": "Participation à la conception du game design et de la direction artistique </br> Écriture de la narration et des règles du jeu </br> Mise en page du livret de règles",
+            "team": "Designers : Lou CARDON, Aurore SERGENT <br /> Développeurs : Fabrizio MANETTI, Akira VALADE",
+            "role": "Participation à la conception du game design et de la direction artistique <br /> Écriture de la narration et des règles du jeu <br /> Mise en page du livret de règles",
             "tools": ["Figma", "Indesign"]
             },
             {
@@ -100,8 +100,8 @@
             "label": "Vue d'ensemble",
             "paragraph": "Coolisses, c'est l'application intimiste qui vous fait <mark>découvrir des artistes émergents via leur processus de création</mark> tout en vous permettant de prendre le temps de créer un lien particulier avec eux.",
             "timeline": "1 mois",
-            "team": "Designers : Lou CARDON </br> Développeurs : Françoise PHAM, César SAINT-LO",
-            "role": "Participation à la création du concept </br> Participation au design et au prototypage de l'expérience et de l'interface utilisateur </br> Rédaction et animation des tests d’utilisabilité",
+            "team": "Designers : Lou CARDON <br /> Développeurs : Françoise PHAM, César SAINT-LO",
+            "role": "Participation à la création du concept <br /> Participation au design et au prototypage de l'expérience et de l'interface utilisateur <br /> Rédaction et animation des tests d’utilisabilité",
             "tools": ["Figma"]
             },
             {
@@ -116,7 +116,7 @@
             "id": "benchmark",
             "label": "Benchmark",
             "title": "Les applications de musique, notre analyse",
-            "paragraph": "En analysant les applications de musiques les plus connues, on s'est rendu compte que beaucoup étaient <mark>centrées sur le player</mark> et qu'elles <mark>recommandaient quasiment uniquement des artistes déjà connus.</mark> </br></br>Par ailleurs, on a trouvé que les suggestions étaient <mark>particulièrement dépendantes de la consommation existante</mark> de musique de l'utilisateur, <mark>l'empêchant de sortir de sa zone de confort</mark> et d'expérimenter de nouveaux genres ou artistes."
+            "paragraph": "En analysant les applications de musiques les plus connues, on s'est rendu compte que beaucoup étaient <mark>centrées sur le player</mark> et qu'elles <mark>recommandaient quasiment uniquement des artistes déjà connus.</mark> <br /><br />Par ailleurs, on a trouvé que les suggestions étaient <mark>particulièrement dépendantes de la consommation existante</mark> de musique de l'utilisateur, <mark>l'empêchant de sortir de sa zone de confort</mark> et d'expérimenter de nouveaux genres ou artistes."
             },
             {
             "type": "image",
@@ -161,7 +161,7 @@
             {
             "type": "titleParagraph",
             "title": "Une tonalité particulière",
-            "paragraph": "Nous avons voulu que cette application permette une expérience <mark>intimiste</mark> tout en étant <mark>respectueuse,</mark> faite <mark>d'information douce</mark> et <mark>d'exploration contemplative.</mark> </br></br> Pour cela, nous nous sommes inspirés de plusieurs applications qui incarnent certains de ces principes, notamment des applis de méditations."
+            "paragraph": "Nous avons voulu que cette application permette une expérience <mark>intimiste</mark> tout en étant <mark>respectueuse,</mark> faite <mark>d'information douce</mark> et <mark>d'exploration contemplative.</mark> <br /><br /> Pour cela, nous nous sommes inspirés de plusieurs applications qui incarnent certains de ces principes, notamment des applis de méditations."
             },
             {
             "type": "image",
@@ -172,14 +172,14 @@
             {
             "type": "titleParagraph",
             "title": "Étendue du projet",
-            "paragraph": "Notre concept prévoit 2 applications : la première à destination du grand public pour lui permettre de découvrir des nouveaux artistes, la deuxième à destination des artistes eux même pour pouvoir partager leurs contenus.</br></br> Étant donné la durée limitée de ce projet, nous nous sommes concentrés sur l'application grand public, celle-ci étant la plus à même d'illustrer notre concept."
+            "paragraph": "Notre concept prévoit 2 applications : la première à destination du grand public pour lui permettre de découvrir des nouveaux artistes, la deuxième à destination des artistes eux même pour pouvoir partager leurs contenus.<br /><br /> Étant donné la durée limitée de ce projet, nous nous sommes concentrés sur l'application grand public, celle-ci étant la plus à même d'illustrer notre concept."
             },
             {
             "type": "titleParagraph",
             "id": "process",
             "label": "Process de design",
             "title": "Expérience Utilisateur",
-            "paragraph": "Nous avons pensé l'application autour d'<mark>une fonctionnalité centrale</mark> : la découverte d'<mark>un artiste aléatoire par jour.</mark> </br></br> Nous avons commencé par <mark>cartographier les fonctionnalités</mark> que l'on voulait développer pour mener à bien notre concept et vision."
+            "paragraph": "Nous avons pensé l'application autour d'<mark>une fonctionnalité centrale</mark> : la découverte d'<mark>un artiste aléatoire par jour.</mark> <br /><br /> Nous avons commencé par <mark>cartographier les fonctionnalités</mark> que l'on voulait développer pour mener à bien notre concept et vision."
             },
             {
             "type": "image",
@@ -343,10 +343,10 @@
             "type": "overview",
             "id": "overview",
             "label": "Vue d'ensemble",
-            "paragraph": "<mark>Comment représenter visuellement la symbolique d'une couleur ?</mark> Telle était la question centrale de ce projet. </br>Ma binôme et moi avons ainsi, par le biai d'un <mark>court métrage de 30 secondes,</mark> tenté de représenter la symbolique de la couleur choisie : le <mark>violet.</mark>",
+            "paragraph": "<mark>Comment représenter visuellement la symbolique d'une couleur ?</mark> Telle était la question centrale de ce projet. <br />Ma binôme et moi avons ainsi, par le biai d'un <mark>court métrage de 30 secondes,</mark> tenté de représenter la symbolique de la couleur choisie : le <mark>violet.</mark>",
             "timeline": "1 semaine",
             "team": "En binôme avec Daria Molchanova",
-            "role": "Participation à l'idéation et au tournage </br> Montage vidéo et Design sonore",
+            "role": "Participation à l'idéation et au tournage <br /> Montage vidéo et Design sonore",
             "tools": ["After Effects"]
             },
             {
@@ -384,7 +384,7 @@
             "id": "assembly",
             "label": "Montage",
             "title": "Assembler les éléments",
-            "paragraph": "Une fois le tournage terminé, j'ai récupéré et trié toutes les <mark>prises</mark> puis je les ai <mark>assemblées</mark>. C'est aussi à ce moment que j'ai réalisé la <mark>sphère magique</mark>. </br>J'ai aussi ajouté les divers petits sons qui permettent de créer une <mark>ambiance sonore</mark> qui vient supporter la représentation visuelle."
+            "paragraph": "Une fois le tournage terminé, j'ai récupéré et trié toutes les <mark>prises</mark> puis je les ai <mark>assemblées</mark>. C'est aussi à ce moment que j'ai réalisé la <mark>sphère magique</mark>. <br />J'ai aussi ajouté les divers petits sons qui permettent de créer une <mark>ambiance sonore</mark> qui vient supporter la représentation visuelle."
             },
             {
             "type": "image",
@@ -431,7 +431,7 @@
             "label": "Vue d'ensemble",
             "timeline": "3 mois",
             "team": "Squad Design Système de la Digital Factory",
-            "role": "Participation à la gestion des librairies de pictogrammes </br> Maquettage d'emails commerciaux",
+            "role": "Participation à la gestion des librairies de pictogrammes <br /> Maquettage d'emails commerciaux",
             "tools": ["Figma", "Illustrator"]
             },
             {
@@ -439,7 +439,7 @@
             "id": "missions",
             "label": "Missions",
             "title": "Livret de présentation",
-            "paragraph": "Lors de mon stage à la MAIF, j'ai notamment eu l'opportunité de travailler sur les <mark>librairies de pictogrammes du design system</mark> et de maquetter des <mark>emails commerciaux.</mark> </br></br>Pour en savoir plus sur mes missions, consulte mon rapport de stage :"
+            "paragraph": "Lors de mon stage à la MAIF, j'ai notamment eu l'opportunité de travailler sur les <mark>librairies de pictogrammes du design system</mark> et de maquetter des <mark>emails commerciaux.</mark> <br /><br />Pour en savoir plus sur mes missions, consulte mon rapport de stage :"
             },
             {
             "type": "pdf",
