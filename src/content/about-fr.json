@@ -87,7 +87,7 @@
       "subtitle": "Gobelins Paris",
       "relatedOrg": "Gobelins Paris",
       "date": "Septembre 2024 - Juin 2026",
-      "description": ["Formation RNCP niveau 7", "M'a permis d'affiner mes compétences et de réaliser des projects variés en équipes."]
+      "description": ["Formation RNCP niveau 7", "Pour plus d'informations, voici le <a href='https://www.gobelins.fr/design/formations/di51-expert-creation-numerique-interactive' class='underline' target='_blank'>lien de la formation</a>"]
     },
     {
       "id": 2,
@@ -96,7 +96,7 @@
       "subtitle": "Lycée La Tourrache",
       "relatedOrg": "DNMADE",
       "date": "Septembre 2021 - Juin  2024",
-      "description": ["Diplôme national des métiers d'art et de design (grade licence)", "J'y ai appris les bases du design avec une spécialisation en design numérique."]
+      "description": ["Diplôme national des métiers d'art et de design (grade licence)", "Bases du design avec une spécialisation en design numérique"]
     }
     ]
   }

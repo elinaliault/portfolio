@@ -133,9 +133,9 @@ export function CollapseItem({
                             <ul className="flex flex-col gap-2 text-left 
                             list-disc pl-5">
                                 {description.map((listItem, index) => (
-                                    <li key={index} >
-                                        {listItem}
-                                    </li>
+                                    <li key={index} 
+                                    dangerouslySetInnerHTML={{ __html: listItem }}
+                                    />
                                 ))}
                             </ul>
                         </div>
