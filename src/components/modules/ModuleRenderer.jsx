@@ -1,4 +1,5 @@
 // modules/ModuleRenderer.jsx
+import { Suspense } from "react";
 import { moduleRegistry } from "./registry";
 
 export default function ModuleRenderer({ block, t }) {
@@ -16,10 +17,24 @@ export default function ModuleRenderer({ block, t }) {
 
   // id is used for scroll-to-anchor from the TOC, so every block that
   // wants a TOC entry needs it applied at this level, not inside each module
-  console.log(block);
+
+  // return (
+  //   <div id={block.id || undefined} className="scroll-mt-24">
+  //     <Component {...block} t={t} />
+  //   </div>
+  // );
   return (
     <div id={block.id || undefined} className="scroll-mt-24">
-      <Component {...block} t={t} />
+      {/* Suspense handles the loading state while the lazy chunk fetches over the network */}
+      <Suspense 
+        fallback={
+          <div className="py-12 text-center text-sm opacity-60 animate-pulse">
+            Loading...
+          </div>
+        }
+      >
+        <Component {...block} t={t} />
+      </Suspense>
     </div>
   );
 }
