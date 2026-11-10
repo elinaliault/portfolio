@@ -200,26 +200,18 @@
             {
             "type": "titleParagraph",
             "title": "Moodboard",
-            "paragraph": "Inspiré de l'ambiance studio d’enregistrement"
+            "paragraph": "Pour plonger l'utilisateur dans l'intimité du processus de création, nous avons recréé <mark>l'ambiance d'un studio d'enregistrement</mark> : l'artiste est en cabine, observé depuis la régie. Nous avons ainsi opté pour une <mark>interface skeuomorphique,</mark> reprenant l'aspect tactile des boutons et des commandes mécaniques des tables de mixage."
             },
             {
             "type": "image",
             "src": "./projectsAssets/coolisses/moodboard.png",
-            "caption": "Moodboard de l'ambiance studio d’enregistrement",
+            "caption": "Moodboard : ambiance studio d’enregistrement et inspirations skeuomorphiques.",
             "size": "full"
             },
             {
             "type": "titleParagraph",
             "title": "Identité graphique",
-            "paragraph": "..."
-            },
-            {
-            "type": "video",
-            "src": "./projectsAssets/coolisses/animlogo.mp4",
-            "poster": "./projectsAssets/coolisses/animlogo-poster.png",
-            "caption": "Logo animé de l'appli Coolisses",
-            "autoplay": true,
-            "loop": true
+            "paragraph": "L'objectif était de <mark>créer une unité graphique</mark> dans l'application, tout en laissant <mark>l'artiste exprimer sa personnalité</mark> sur sa page. Nous avons donc misé sur une palette noir, blanc et violet inspirée des studios, tout en permettant à chaque artiste de <mark>personnaliser sa page avec sa propre couleur.</mark> <br/><br/> Pour les pictogrammes, très présents sur les machines comme dans l'interface, nous avons opté pour des formes arrondies pour <mark>adoucir l'aspect machine.</mark> Enfin, deux typographies complémentaires assurent la <mark>hiérarchie de l'information.</mark>"
             },
             {
             "type": "imageGrid",
@@ -233,14 +225,27 @@
             },
             {
             "type": "titleParagraph",
+            "title": "Logo",
+            "paragraph": "Basé sur la typographie des titres, le logo intègre des lunettes à la place des « O » pour <mark>appuyer le jeu de mots</mark> et <mark>parler à un public jeune.</mark> Il est également animé pour le rendre plus vivant."
+            },
+            {
+            "type": "video",
+            "src": "./projectsAssets/coolisses/animlogo.mp4",
+            "poster": "./projectsAssets/coolisses/animlogo-poster.png",
+            "caption": "Logo animé de l'application Coolisses.",
+            "autoplay": true,
+            "loop": true
+            },
+            {
+            "type": "titleParagraph",
             "title": "Coolisses Studio",
-            "paragraph": "..."
+            "paragraph": "Nous avons également conçu le logo de Coolisses Studio, l'application dédiée aux artistes. Pour garder une cohérence visuelle, il est <mark>décliné du logo principal.</mark> Les étoiles laissent place à des engrenages et la mention « Studio » vient <mark>souligner l'aspect gestion et paramétrage</mark> de cet outil."
             },
             {
             "type": "video",
             "src": "./projectsAssets/coolisses/coolisses-studio-anim.mp4",
             "poster": "./projectsAssets/coolisses/coolisses-studio-poster.png",
-            "caption": "Logo animé de l'appli Coolisses Studio",
+            "caption": "Logo animé de l'application Coolisses Studio, destinée aux artistes.",
             "autoplay": true,
             "loop": true
             },
@@ -248,14 +253,14 @@
             "type": "titleParagraph",
             "id": "prototype",
             "label": "Prototype",
-            "title": "Une application de découverte...",
-            "paragraph": "..."
+            "title": "Traduire le concept en application navigable",
+            "paragraph": "À partir des wireframes et de notre identité graphique, nous avons réalisé les <mark>écrans de l'interface utilisateur.</mark> Quelques ajustements de mise en page ont permis d'épurer l'interface pour <mark>privilégier un lien authentique avec les artistes,</mark> loin des codes du format court (presque pas de scroll infini, ni de contenu imposé d'entrée de jeu). <br /><br /> Voici un <mark>aperçu vidéo du prototype</mark> de l'application, qui nous a ensuite servi de base pour mener des tests d'utilisabilité et affiner l'interface."
             },
             {
             "type": "video",
             "src": "./projectsAssets/coolisses/prototype-with-bg.mp4",
             "poster": "./projectsAssets/coolisses/prototype-poster.png",
-            "caption": "Prototype animé de l'application Coolisses.",
+            "caption": "Aperçu vidéo du prototype de l'application Coolisses.",
             "autoplay": true,
             "loop": true
             },
@@ -264,27 +269,27 @@
             "id": "tests",
             "label": "Tests d'utilisabilité",
             "title": "Rédaction et passation des tests",
-            "paragraph": "Bla bla bla écriture bla bla. Bla bla passation."
+            "paragraph": "Nos tests d'utilisabilité avaient <mark>deux objectifs : mesurer la perception de l'application et vérifier la compréhension de nos interactions les plus originales.</mark> En effet, ces mécaniques inhabituelles pouvaient dérouter les utilisateurs, d'où l'importance de les évaluer pour mieux les adapter. <br /><br /> Pour cela, j'ai <mark>rédigé un protocole</mark> composé de trois scénarios mêlant tâches à réaliser et questions. Pendant les sessions, j'ai <mark>animé les échanges avec les testeurs</mark> pendant qu'un coéquipier prenait des notes."
             },
             {
             "type": "titleParagraph",
-            "title": "Conclusions des tests",
-            "paragraph": "Ces tests nous ont permis de nous rendre compte que certaines interactions un peu différentes des standards n'étaient pas forcément toujours intuitives pour les utilisateurs et que des tutoriels les expliquant étaient nécessaires."
+            "title": "Enseignements des tests",
+            "paragraph": "Ces tests ont confirmé que certaines de nos interactions, un peu éloignées des standards habituels, manquaient d'intuitivité au premier abord. Pour <mark>faciliter la prise en main,</mark> nous avons donc intégré des <mark>tutoriels explicatifs,</mark> visibles dans la vidéo ci-dessous."
             },
             {
             "type": "video",
             "src": "./projectsAssets/coolisses/tuto-with-bg.mp4",
             "poster": "./projectsAssets/coolisses/tuto-poster.png",
-            "caption": "Tutoriel expliquant les interactions.",
+            "caption": "Aperçu des tutoriels explicatifs intégrés à l'application après les tests.",
             "autoplay": true,
             "loop": true
             },
             {
             "type": "titleParagraph",
-            "id": "bilan",
-            "label": "Bilan",
-            "title": "Bilan",
-            "paragraph": "..."
+            "id": "conclusion",
+            "label": "Conclusion",
+            "title": "Bilan du projet",
+            "paragraph": "Ce projet nous a permis de concevoir une expérience musicale à contre-courant des plateformes actuelles, en misant sur l'intimité et la découverte lente. Les tests utilisateurs ont été indispensables pour ajuster nos partis pris ergonomiques et valider l'équilibre entre identité graphique forte et accessibilité."
             }
         ]
     },
