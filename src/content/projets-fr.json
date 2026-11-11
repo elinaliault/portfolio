@@ -1,5 +1,167 @@
 [
     {
+        "url": "l360-identity",
+        "projectColor": "#EFD2D2",
+        "coverUrl": "./projectsAssets/l360-identity/l360-colors.png",
+        "title": "Liasse 360",
+        "description": "Créer une identité visuelle reconnaissable",
+        "descriptionWithMark": "Créer une <mark>identité visuelle</mark> reconnaissable",
+        "isSchool": false,
+        "orgName": "Liasse 360",
+        "endDate": "2026",
+        "types": ["Graphisme", "DA", "Motion", "Print", "UI"],
+        "sections": [
+            {
+            "type": "image",
+            "src": "./projectsAssets/l360-identity/l360-colors.png",
+            "size": "full"
+            },
+            {
+            "type": "overview",
+            "id": "overview",
+            "label": "Vue d'ensemble",
+            "title": "Titre de cette partie",
+            "paragraph": "Paragraph d'introduction",
+            "timeline": "2 ans",
+            "team": "Seule designer <br /> Avec la concertation et la validation des associés et du chef de projet",
+            "role": "Conception de la charte graphique <br />Maquettage du site vitrine <br />Réalisation des éléments de communication de la marque",
+            "tools": ["Figma", "Illustrator", "After Effects", "Premier Pro"]
+            },
+            {
+            "type": "titleParagraph",
+            "id": "analyses",
+            "label": "Analyses",
+            "title": "Analyse de l'existant",
+            "paragraph": "Mini charte et applications"
+            },
+            {
+            "type": "image",
+            "src": "./projectsAssets/l360-identity/mini-charte.png",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "title": "...et son application",
+            "paragraph": "..."
+            },
+            {
+            "type": "image",
+            "src": "./projectsAssets/l360-identity/analyse-existant.png",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Analyse de la concurrence",
+            "paragraph": "..."
+            },
+            {
+            "type": "image",
+            "src": "./projectsAssets/l360-identity/analyse-concurrence.png",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "id": "identity",
+            "label": "Identité graphique",
+            "title": "Moodboard ? Logique ?",
+            "paragraph": "..."
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Couleurs",
+            "paragraph": "..."
+            },
+            {
+            "type": "image",
+            "src": "./projectsAssets/l360-identity/l360-colors.png",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Écriture de la charte graphique",
+            "paragraph": "..."
+            },
+            {
+            "type": "image",
+            "src": "./projectsAssets/l360-identity/charte-graphique.png",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "id": "decliner",
+            "label": "Décliner l'identité",
+            "title": "Library picto",
+            "paragraph": "..."
+            },
+            {
+            "type": "image",
+            "src": "./projectsAssets/l360-identity/library-picto.png",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Illustrations vectorielles",
+            "paragraph": "..."
+            },
+            {
+            "type": "image",
+            "src": "./projectsAssets/l360-identity/illus-vecto.png",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Modèles word/pwp",
+            "paragraph": "..."
+            },
+            {
+            "type": "titleParagraph",
+            "id": "applications",
+            "label": "Applications",
+            "title": "Print",
+            "paragraph": "guide 6 missions, plaquette telephone, flyer"
+            },
+            {
+            "type": "image",
+            "src": "./projectsAssets/l360-identity/flyer-congres26.png",
+            "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Linkedin",
+            "paragraph": "exemples de posts"
+            },
+            {
+            "type": "titleParagraph",
+            "title": "emailling",
+            "paragraph": "brevo, si j'ai exemple"
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Vidéos",
+            "paragraph": "30 sec pour attirer attention au congrès"
+            },
+            {
+            "type": "video",
+            "src": "./projectsAssets/l360-identity/vidéo-tv-congres.mp4",
+            "poster": "./projectsAssets/l360-identity/.png",
+            "caption": "Logo animé de l'application Coolisses.",
+            "autoplay": true,
+            "loop": true
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Site vitrine",
+            "paragraph": "mise à la charte"
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Stand",
+            "paragraph": "... if autorisation ..."
+            }
+            
+        ]
+    },
+    {
         "url": "coolisses",
         "projectColor": "#D9CAF1",
         "coverUrl": "./projectsAssets/coolisses/coolisses-cover.png",
