@@ -2,7 +2,7 @@
     {
         "url": "l360-identity",
         "projectColor": "#EFD2D2",
-        "coverUrl": "./projectsAssets/l360-identity/l360-colors.png",
+        "coverUrl": "./projectsAssets/l360-identity/l360-identity-cover.png",
         "title": "Liasse 360",
         "description": "Créer une identité visuelle reconnaissable",
         "descriptionWithMark": "Créer une <mark>identité visuelle</mark> reconnaissable",
@@ -13,7 +13,7 @@
         "sections": [
             {
             "type": "image",
-            "src": "./projectsAssets/l360-identity/l360-colors.png",
+            "src": "./projectsAssets/l360-identity/l360-identity-cover.png",
             "size": "full"
             },
             {
@@ -46,7 +46,12 @@
             },
             {
             "type": "image",
-            "src": "./projectsAssets/l360-identity/analyse-existant.png",
+            "src": "./projectsAssets/l360-identity/existant-supports.png",
+            "size": "full"
+            },
+            {
+            "type": "image",
+            "src": "./projectsAssets/l360-identity/existant-analyse.png",
             "size": "full"
             },
             {
@@ -122,18 +127,23 @@
             },
             {
             "type": "image",
+            "src": "./projectsAssets/l360-identity/flyer-phoning.png",
+            "size": "full"
+            },
+            {
+            "type": "image",
             "src": "./projectsAssets/l360-identity/flyer-congres26.png",
+            "size": "full"
+            },
+            {
+            "type": "image",
+            "src": "./projectsAssets/l360-identity/guide-missions.png",
             "size": "full"
             },
             {
             "type": "titleParagraph",
             "title": "Linkedin",
             "paragraph": "exemples de posts"
-            },
-            {
-            "type": "titleParagraph",
-            "title": "emailling",
-            "paragraph": "brevo, si j'ai exemple"
             },
             {
             "type": "titleParagraph",
@@ -154,11 +164,35 @@
             "paragraph": "mise à la charte"
             },
             {
+            "type": "image",
+            "src": "./projectsAssets/l360-identity/site-vitrine.png",
+            "size": "full"
+            },
+            {
             "type": "titleParagraph",
             "title": "Stand",
             "paragraph": "... if autorisation ..."
+            },
+            {
+            "type": "image",
+            "src": "./projectsAssets/l360-identity/stand-kakemono.png",
+            "size": "full"
+            },
+            {
+            "type": "image",
+            "src": "./projectsAssets/l360-identity/stand-visuals.png",
+            "size": "full"
+            },
+            {
+            "type": "imageGrid",
+            "id": "explorations",
+            "label": "Explorations",
+            "columns": 2,
+            "images": [
+                { "src": "./projectsAssets/l360-identity/stand-mockup-front.png", "caption": "Early wireframe" },
+                { "src": "./projectsAssets/l360-identity/stand-mockup-side.png", "caption": "Color exploration" }
+              ]
             }
-            
         ]
     },
     {
