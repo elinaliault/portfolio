@@ -20,71 +20,73 @@
             "type": "overview",
             "id": "overview",
             "label": "Vue d'ensemble",
-            "paragraph": "Liasse 360 est un logiciel SaaS à destination des experts-comptables, développé par l'entreprise Fidatech. Il leur permet, grâce à l'analyse de liasses fiscales, de faire ressortir des missions de conseil.",
+            "paragraph": "Liasse 360 est un logiciel SaaS édité par Fidatech qui aide les experts-comptables à générer des missions de conseil via l'analyse de liasses fiscales. Ce projet retrace la structuration complète de son identité visuelle et son application sur l'ensemble des supports de la marque.",
             "timeline": "2 ans",
-            "team": "Seule designer <br /> Avec la concertation et la validation des associés et du chef de projet",
+            "team": "Seule designer <br /> En concertation avec les associés et le chef de projet",
             "role": "Conception de la charte graphique <br />Maquettage du site vitrine <br />Réalisation des éléments de communication de la marque",
             "tools": ["Figma", "Illustrator", "After Effects", "Premier Pro"]
             },
             {
             "type": "titleParagraph",
-            "title": "Contexte",
-            "paragraph": "Liasse 360 est un logiciel SaaS à destination des experts-comptables, développé par l'entreprise Fidatech. Il leur permet, grâce à l'analyse de liasses fiscales, de faire ressortir des missions de conseil. <br /><br /> Lorsque je suis arrivé dans l'entreprise, il n'y avait pas vraiment d'identité graphique définie ni appliquée de manière homogène. L'idée a donc été de créer une identité graphique reconnaissable et de l'appliquer aux divers supports harmonieusement."
+            "id": "brief",
+            "label": "Brief",
+            "title": "Structurer l'identité de la marque",
+            "paragraph": "À mon arrivée, la marque disposait d'une base graphique très limitée et d'une application visuelle hétérogène. L'objectif principal a donc été de concevoir une identité graphique forte et reconnaissable, puis de l'appliquer de manière cohérente à l'ensemble des supports de communication."
             },
             {
-            "type": "titleParagraph",
-            "id": "analyses",
-            "label": "Analyses",
-            "title": "Analyse de l'existant",
-            "paragraph": "Avant de créer quoi que ce soit, j'ai analysé ce qui existait déjà, autant pour Liasse 360 que pour le secteur des lociciels de comptabilité."
+                "type": "titleParagraph",
+                "id": "analyses",
+                "label": "Analyses",
+                "title": "Analyse de l'existant",
+                "paragraph": "Avant de concevoir la nouvelle identité, j'ai réalisé un état des lieux des supports de Liasse 360 et des pratiques du secteur."
             },
             {
-            "type": "titleParagraph",
-            "title": "Mini-Charte...",
-            "paragraph": "Il se trouve qu'il existait une ''mini-charte'' pour L360, qui consistait en un logo, 3 couleurs et 2 typographies mais aucune règles d'applications. Autant dire que c'était limité."
+                "type": "titleParagraph",
+                "title": "Une « mini-charte » insuffisante",
+                "paragraph": "Liasse 360 disposait d'une première base graphique très restreinte : un logo, trois couleurs et deux typographies, mais aucune règle d'utilisation."
             },
             {
-            "type": "image",
-            "src": "./projectsAssets/l360-identity/mini-charte.png",
-            "caption": "La minicharte",
-            "size": "full"
+                "type": "image",
+                "src": "./projectsAssets/l360-identity/mini-charte.png",
+                "caption": "La mini-charte initiale.",
+                "size": "full"
             },
             {
-            "type": "titleParagraph",
-            "title": "...et son application",
-            "paragraph": "De plus, en analysant les supports de communications existants et l'interface logicielle, je me suis rendu compte que même la mini charte n'etait pas appliqué."
+                "type": "titleParagraph",
+                "title": "Un décalage dans les applications",
+                "paragraph": "L'analyse des supports existants a révélé que même cette mini-charte n'était pas toujours respectée."
             },
             {
-            "type": "image",
-            "src": "./projectsAssets/l360-identity/existant-supports.png",
-            "caption": "Une partie des supports existants",
-            "size": "full"
+                "type": "image",
+                "src": "./projectsAssets/l360-identity/existant-supports.png",
+                "caption": "Aperçu des supports de communication existants.",
+                "size": "full"
             },
             {
-            "type": "titleParagraph",
-            "paragraph": "En analysant l'appplication des différents éléments de la mini charte et de l'identité gfraphiuque, je me suis rendu compte de son heterogeneité. En effet, par exemple, en plus des couleurs de la mini charte, j'ai comté 42 autres couleurs utilisées, dont plusieurs teintes de la meme couleur. De même, les illustrations etaient répartient en plusieurs style graphique complètement différents. En gros, l'identité n'etait pas reconnaisable et meme pas appliqué partout."
+                "type": "titleParagraph",
+                "paragraph": "L'audit des différents supports a mis en évidence une forte hétérogénéité visuelle. Par exemple, j'ai recensé 42 couleurs différentes en plus de celles de la charte, ainsi que plusieurs styles d'illustrations contradictoires. L'identité graphique manquait de cohérence ce qui ne permettait pas qu'elle soit reconnaissable."
             },
             {
-            "type": "image",
-            "src": "./projectsAssets/l360-identity/existant-analyse.png",
-            "caption": "Présentation de l'analyse des différents composants d'identité graphique",
-            "size": "full"
+                "type": "image",
+                "src": "./projectsAssets/l360-identity/existant-analyse.png",
+                "caption": "Synthèse de l'analyse des composants graphiques.",
+                "size": "full"
             },
             {
-            "type": "titleParagraph",
-            "title": "Analyse graphique du secteur",
-            "paragraph": "J'ai aussi utilmisé cette phase d'analyse pour analyser les chartes graphiques, site vitrine et mockup de leur logiciel. cela ma permis de voir quelle identité graphique chacun d'eux avait développé afin de pouvoir creer un indentité graphique qui s'inscrit dans la culture graphique du secteur tout en la rendant unique et reconnaisable."
+                "type": "titleParagraph",
+                "title": "Analyse concurrentielle du secteur",
+                "paragraph": "J'ai également étudié l'univers visuel des concurrents (chartes, sites web, interfaces logicielles). Cette étape m'a permis d'identifier les codes graphiques du marché pour construire une identité à la fois ancrée dans son secteur et unique."
             },
             {
-            "type": "image",
-            "src": "./projectsAssets/l360-identity/analyse-concurrence.png",
-            "caption": "Présentation de l'analyse graphique des marques du secteur",
-            "size": "full"
+                "type": "image",
+                "src": "./projectsAssets/l360-identity/analyse-concurrence.png",
+                "caption": "Benchmark des identités visuelles du secteur.",
+                "size": "full"
             },
             {
-            "type": "titleParagraph",
-            "title": "Recommendations",
-            "paragraph": "Après cette phase d'analyse, j'ai présenté à l'équipe les résultats de cette analyse avec des recommandations afin d'améliorer l'identité graphique et la qualité de son application. POur cela j'ai aussi recommandé la création/écriture d'une charte graphique détaillée."
+                "type": "titleParagraph",
+                "title": "Recommandations",
+                "paragraph": "À l'issue de cette phase, j'ai présenté les résultats de l'audit à l'équipe, accompagnés de recommandations stratégiques pour refondre l'identité graphique et formaliser l'ensemble des règles dans une charte graphique complète."
             },
             {
             "type": "titleParagraph",
