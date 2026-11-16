@@ -9,7 +9,7 @@
         "isSchool": false,
         "orgName": "Liasse 360",
         "endDate": "2026",
-        "types": ["Graphisme", "DA", "Motion", "Print", "UI"],
+        "types": ["Graphisme", "DA", "Print", "Motion", "UI"],
         "sections": [
             {
             "type": "image",
@@ -93,6 +93,11 @@
             },
             {
             "type": "titleParagraph",
+            "title": "Modèles word/pwp",
+            "paragraph": "..."
+            },
+            {
+            "type": "titleParagraph",
             "id": "decliner",
             "label": "Décliner l'identité",
             "title": "Library picto",
@@ -112,11 +117,6 @@
             "type": "image",
             "src": "./projectsAssets/l360-identity/illus-vecto.png",
             "size": "full"
-            },
-            {
-            "type": "titleParagraph",
-            "title": "Modèles word/pwp",
-            "paragraph": "..."
             },
             {
             "type": "titleParagraph",
@@ -144,6 +144,11 @@
             "type": "titleParagraph",
             "title": "Linkedin",
             "paragraph": "exemples de posts"
+            },
+            {
+            "type": "image",
+            "src": "./projectsAssets/l360-identity/linkedin.png",
+            "size": "full"
             },
             {
             "type": "titleParagraph",
