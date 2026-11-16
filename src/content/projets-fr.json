@@ -40,8 +40,8 @@
             },
             {
             "type": "titleParagraph",
-            "id": "analyses",
-            "label": "Analyses",
+            "id": "analyse",
+            "label": "Analyse",
             "title": "Analyse de l'existant",
             "paragraph": "Avant de créer quoi que ce soit, j'ai analysé ce qui existait déjà, à la fois chez Liasse 360 et dans le secteur des logiciels de comptabilité."
             },
@@ -97,45 +97,51 @@
             "type": "titleParagraph",
             "id": "identity",
             "label": "Créer l'identité",
-            "title": "Itérations",
-            "paragraph": "Après discussion autour des recommandations avec l'équipe, j'ai fait des propositions de choix graphiques pour l'identité de la marque, qui ont été validés au fur et a mesures des retours et des itérations."
+            "title": "Choix graphiques",
+            "paragraph": "Après avoir échangé avec l'équipe autour de mes recommandations, j'ai fait des propositions graphiques pour l'identité de la marque, qui ont été validées au fil des retours et des itérations."
             },
             {
             "type": "titleParagraph",
             "title": "Couleurs",
-            "paragraph": "Dans les choix et modifications j'ai notamment Pour les couleurs, j'ai remplacé les bleus-gris par un bleu marine (foncé) et j'ai modifié la saturation du rouge afin de créer une identité plus moderne tout en restant des couelrus qui inspire confiance et rigeure."
+            "paragraph": "Côté couleurs, j'ai remplacé les bleus-gris par un bleu marine foncé et ajusté la saturation du rouge. L'objectif était d'obtenir une identité plus moderne, tout en conservant des couleurs qui inspirent confiance et rigueur."
             },
             {
             "type": "image",
             "src": "./projectsAssets/l360-identity/l360-colors.png",
-            "caption": "Des couleurs de la mini-charte aux couleurs proposées pour la charte graphique",
+            "caption": "Des couleurs de la mini-charte aux couleurs de la charte graphique",
             "size": "full"
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Logo et typographie",
+            "paragraph": "Le logo a été conservé, avec quelques ajustements pour l'accorder à la nouvelle palette. Côté typographie, j'ai simplifié : l'existant en utilisait au moins trois, la charte n'en retient plus qu'une, Montserrat, pour sa simplicité et la fiabilité qu'elle dégage."
             },
             {
             "type": "titleParagraph",
             "title": "Écriture de la charte graphique",
-            "paragraph": "Une fois les choix d'identité validés, j'ai rédigé la charte graphique avec les règles de style et d'utilisation pour tout les éléments de l'identité graphique (du logo aux illusatrations en passant par les couleurs)."
+            "paragraph": "Une fois les choix validés, j'ai rédigé la charte graphique : les règles de style et d'utilisation de chaque élément de l'identité, du logo aux illustrations en passant par les couleurs."
             },
             {
             "type": "image",
             "src": "./projectsAssets/l360-identity/charte-graphique.png",
+            "caption": "Présentation de la charte graphique",
             "size": "full"
             },
             {
             "type": "titleParagraph",
-            "paragraph": "Une fois ce document validé par la direction, il est devenu l'unique point de référence pour l'identité graphique et sa déclinaison sur les divers supports"
+            "paragraph": "Validé par la direction, ce document est devenu l'unique référence pour l'identité graphique de la marque et sa déclinaison sur les différents supports."
             },
             {
             "type": "titleParagraph",
-            "id": "decliner",
-            "label": "Décliner l'identité",
+            "id": "toolbox",
+            "label": "Boîte à outils",
             "title": "Modèles de documents",
-            "paragraph": "la prmiere chose que j'ai faite a ete de créer des modeles word et powerpoint afin d'uniformiser les documents de la marque que ce soit pour les compte rendu de réunions, la documentation fonctionnelles our les présentations (internes et externes)."
+            "paragraph": "J'ai commencé par créer des modèles Word et PowerPoint pour uniformiser les documents de la marque : comptes rendus de réunion, documentation fonctionnelle, présentations internes et externes."
             },
             {
             "type": "titleParagraph",
-            "title": "Librairie de pictogrammes",
-            "paragraph": "J'ai réaliser les pictogrammes en fonction des besoin rencontrés et en suivant les directives préviously définies, afin de permettre une cohérence graphique. Je les ai organisé dans une librairie de composants figma afin de pouvoir les appeller dans différents fichiers et de maintenir les évolutions."
+            "title": "Bibliothèque de pictogrammes",
+            "paragraph": "J'ai réalisé les pictogrammes au fil des besoins, en suivant les directives de la charte pour garantir la cohérence graphique. Ils sont regroupés dans une bibliothèque de composants Figma, ce qui permet de les réutiliser dans différents fichiers et de répercuter facilement les évolutions."
             },
             {
             "type": "image",
@@ -146,7 +152,7 @@
             {
             "type": "titleParagraph",
             "title": "Illustrations vectorielles",
-            "paragraph": "En partant du style d'illustrations défini, j'ai réalise plusieurs illustrations différentes pour pouvoir varier les representations."
+            "paragraph": "Parmi les styles déjà utilisés dans l'existant, j'ai retenu un style d'illustration 2D vectorielle, avec peu de détails, des personnages et les couleurs de la marque. Ce choix assure la cohérence des visuels et donne une image plus actuelle. À partir de ce style, j'ai réalisé plusieurs illustrations afin de varier les représentations."
             },
             {
             "type": "image",
@@ -156,10 +162,10 @@
             },
             {
             "type": "titleParagraph",
-            "id": "supports",
-            "label": "Supports",
+            "id": "comm-supports",
+            "label": "Communication",
             "title": "Site vitrine",
-            "paragraph": "Pour ce sui est des supports de communication, j'ai commencé par mettre à la charte le site vitrine. Cela permettait ainsi davoir une identité graphique cohérente sur ce support inportant et de rendre l'infomation plus lisible."
+            "paragraph": "Pour les supports de communication, j'ai commencé par le site vitrine, un support stratégique. J'ai conservé sa structure et l'essentiel de ses textes, mais refondu tout le design graphique pour refléter la charte. J'ai ajouté des pictogrammes pour illustrer les contenus et du gras pour hiérarchiser l'information, ce qui rend le site plus cohérent et plus lisible."
             },
             {
             "type": "image",
@@ -169,29 +175,29 @@
             },
             {
             "type": "titleParagraph",
-            "title": "Linkedin",
-            "paragraph": "Linkedin était le support de communication principal de la marque. J'ai donc réaliser plusieurs visuels pour les postes de la marque."
+            "title": "LinkedIn",
+            "paragraph": "LinkedIn étant le principal canal de communication de la marque, j'ai réalisé plusieurs visuels pour ses publications."
             },
             {
             "type": "image",
             "src": "./projectsAssets/l360-identity/linkedin.png",
-            "caption": "Exemple de postes réalisés pour LinkedIn",
+            "caption": "Exemples de publications réalisées pour LinkedIn",
             "size": "full"
             },
             {
             "type": "titleParagraph",
-            "title": "Print",
-            "paragraph": "J'ai aussi réaliser des plaquettes de communication. j'ai d'habors réaliser une plaquette à distribuer/envoyer pendant la prospection téléphonique."
+            "title": "Prospection",
+            "paragraph": "J'ai également réalisé des plaquettes de communication, en commençant par une plaquette à envoyer lors de la prospection téléphonique."
             },
             {
             "type": "image",
             "src": "./projectsAssets/l360-identity/flyer-phoning.png",
-            "caption": "Plaquette prospection phonique",
+            "caption": "Plaquette pour la prospection téléphonique",
             "size": "full"
             },
             {
             "type": "titleParagraph",
-            "paragraph": "Nous avons ensuite réalisé un guide porésentant 6 missions détectées par le logiciel afin de créer de l'intéret aupres des prospec et de récupérer des contacts. J'ai mis en page le guide et j'ai concu les  communication sur le sujet (linkedin, mailing) et le formulaire pour demander le guide accessible depuis le site vitrine."
+            "paragraph": "Nous avons ensuite conçu un guide présentant 6 missions détectées par le logiciel, pour susciter l'intérêt des prospects et récupérer des contacts. J'ai réalisé la mise en page du guide, les communications associées (LinkedIn, mailing) ainsi que le formulaire de demande, accessible depuis le site vitrine."
             },
             {
             "type": "image",
@@ -201,31 +207,31 @@
             },
             {
             "type": "titleParagraph",
-            "paragraph": "l'évenement le plus important pour la communication de la marque envers ses prospect est le congrès annuel des experts comptable. Pour cela j'ai réalisé un flyer imprimable recto verso qui a pour vocation d'être distribuer aux personnes rencontrées pour leur expliquer le produit et son bénéfice pour le prospect."
+            "title": "Congrès",
+            "paragraph": "Le congrès annuel des experts-comptables est l'événement le plus important pour la marque auprès de ses prospects. J'ai conçu pour l'occasion un flyer recto-verso imprimable, à distribuer aux personnes rencontrées pour leur expliquer le produit et ce qu'il leur apporte."
             },
             {
             "type": "image",
             "src": "./projectsAssets/l360-identity/flyer-congres26.png",
-            "caption": "Flyer recto-verso imprimable pour le congrès des experts comptables",
+            "caption": "Flyer recto-verso imprimable pour le congrès des experts-comptables",
             "size": "full"
             },
             {
             "type": "titleParagraph",
-            "title": "Vidéo",
-            "paragraph": "Toujours dans la lignee du congrès, nous voulions pouvoir avoir un support qui attire l'attention des passants et les ammènent sur le stand. Pour cela j'ai réalisé une vidéo animée et silencieuse (un congrès cest bruyant on aurait pas entenu le son) de 30 sec pour présenter le concept rapidement et inciter les passants à demander pluqs d'informations."
+            "paragraph": "Toujours pour le congrès, nous voulions un support qui attire l'attention des passants et les amène vers le stand. J'ai réalisé une vidéo animée de 30 secondes, sans son (dans un congrès bruyant, il n'aurait pas été audible), qui présente le concept rapidement et incite à demander plus d'informations."
             },
             {
             "type": "video",
-            "src": "./projectsAssets/l360-identity/vidéo-tv-congres.mp4",
-            "poster": "./projectsAssets/l360-identity/.png",
-            "caption": "Vidéo pour attirer les passants aux congrès des experts comptables",
+            "src": "./projectsAssets/l360-identity/video-tv-congres.mp4",
+            "poster": "./projectsAssets/l360-identity/video-tv-poster.png",
+            "caption": "Vidéo pour attirer les passants sur le stand du congrès des experts-comptables",
             "autoplay": true,
             "loop": true
             },
             {
             "type": "titleParagraph",
             "title": "Stand",
-            "paragraph": "Pour ce qui est du stand du congrès, en 2025 nous avions un stand (monté par defaut) de 9m2. J'ai participé aux choix des éléments comme la couleur de la moquette. Et j'ai réaliser les éléments graphiques nécessaire à la communication sur le stand (borne d'accueil, kakemono)"
+            "paragraph": "En 2025, nous disposions d'un stand de 9 m² monté par défaut. J'ai participé au choix de certains éléments, comme la couleur de la moquette, et réalisé les éléments graphiques de communication (borne d'accueil, kakémono)."
             },
             {
             "type": "image",
@@ -235,12 +241,12 @@
             },
             {
             "type": "titleParagraph",
-            "paragraph": "... Si j'ai l'autorisation de ma boite ... <br /><br /> Pour le congrès 2026, l'entreprise a fait apèle à un studio pour la création d'un stand sur mesure. J'ai participé à certaines réunions à ce sujet avec le studio et j'ai réaliser les éléments graphiques positionées sur les pan de murs."
+            "paragraph": "Pour le congrès 2026, l'entreprise a fait appel à un studio pour concevoir un stand sur mesure. J'ai participé à plusieurs réunions avec le studio et réalisé les visuels destinés aux pans de murs. Le congrès ayant eu lieu après mon départ, les images ci-dessous sont des mockups."
             },
             {
             "type": "image",
             "src": "./projectsAssets/l360-identity/stand-visuals.png",
-            "caption": "Visuels des éléments graphiques pour les pans de murs",
+            "caption": "Éléments visuels destinés aux pans de murs du stand",
             "size": "full"
             },
             {
@@ -249,14 +255,14 @@
             "images": [
                 { "src": "./projectsAssets/l360-identity/stand-mockup-front.png", "caption": "Mockup du stand vu de face" },
                 { "src": "./projectsAssets/l360-identity/stand-mockup-side.png", "caption": "Mockup du stand vu de côté" }
-              ]
+            ]
             },
             {
             "type": "titleParagraph",
-            "id": "bilan",
-            "label": "Bilan",
-            "title": "Bilan",
-            "paragraph": "...bla bla ... qqch sur la cohérence de l'identité visuelle et bilan/transition fin"
+            "id": "conclu",
+            "label": "Conclusion",
+            "title": "Bilan du projet",
+            "paragraph": "À mon départ, Liasse 360 disposait d'une identité graphique reconnaissable, déclinée de façon cohérente du site vitrine aux supports imprimés, des réseaux sociaux au stand. Les retours de l'équipe ont été positifs : l'identité était perçue comme plus moderne et plus attirante. Documentée dans une charte, elle est pensée pour que l'équipe puisse créer de nouveaux supports sans repartir de zéro."
             }
         ]
     },
