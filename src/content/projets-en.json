@@ -1,5 +1,255 @@
 [
     {
+    "url": "l360-identity",
+    "projectColor": "#E8D2D5",
+    "coverUrl": "./projectsAssets/l360-identity/l360-identity-cover.png",
+    "title": "Liasse 360",
+    "description": "Creating a recognizable visual identity",
+    "descriptionWithMark": "Creating a recognizable <mark>visual identity</mark>",
+    "isSchool": false,
+    "orgName": "Liasse 360",
+    "endDate": "2026",
+    "types": ["Graphic Design", "Art Direction", "Print", "Motion", "UI"],
+    "sections": [
+        {
+        "type": "image",
+        "src": "./projectsAssets/l360-identity/l360-identity-cover.png",
+        "size": "full"
+        },
+        {
+        "type": "overview",
+        "id": "overview",
+        "label": "Overview",
+        "paragraph": "<mark>Creating the visual identity of Liasse 360,</mark> a SaaS product that helps accountants identify advisory engagements by analyzing tax filings.",
+        "timeline": "2 years",
+        "team": "Sole designer <br /> In consultation with the partners and the project manager",
+        "role": "Brand guidelines design <br />Marketing website design <br />Brand communication materials",
+        "tools": ["Figma", "Illustrator", "After Effects", "Premiere Pro", "Photoshop"]
+        },
+        {
+        "type": "titleParagraph",
+        "id": "brief",
+        "label": "Brief",
+        "title": "Context",
+        "paragraph": "Liasse 360 is a <mark>SaaS product</mark> developed by Fidatech. By analyzing their clients' tax filings, it helps <mark>accountants</mark> spot advisory engagements to offer them."
+        },
+        {
+        "type": "titleParagraph",
+        "title": "Goal",
+        "paragraph": "When I joined the company, there was no clearly defined visual identity, and none that was applied consistently. The goal was therefore to <mark>create a recognizable identity</mark> and to <mark>roll it out consistently</mark> across all materials."
+        },
+        {
+        "type": "titleParagraph",
+        "id": "analyse",
+        "label": "Analysis",
+        "title": "Audit of the existing identity",
+        "paragraph": "Before creating anything, I analyzed what already existed, both at Liasse 360 and across the accounting software sector."
+        },
+        {
+        "type": "titleParagraph",
+        "title": "A mini style guide…",
+        "paragraph": "Liasse 360 had a \"mini style guide\": a logo, three colors and two typefaces, <mark>but no usage rules.</mark> It was very limited."
+        },
+        {
+        "type": "image",
+        "src": "./projectsAssets/l360-identity/mini-charte.png",
+        "caption": "The existing mini style guide",
+        "size": "full"
+        },
+        {
+        "type": "titleParagraph",
+        "title": "…barely applied",
+        "paragraph": "While reviewing the communication materials and the software interface, I found that <mark>even this mini style guide wasn't really followed.</mark>"
+        },
+        {
+        "type": "image",
+        "src": "./projectsAssets/l360-identity/existant-supports.png",
+        "caption": "Some of the existing materials",
+        "size": "full"
+        },
+        {
+        "type": "titleParagraph",
+        "paragraph": "The visual identity was in fact <mark>highly inconsistent.</mark> On top of the three colors in the mini style guide, I counted 42 other colors, including several shades of the same hue. The illustrations followed several unrelated graphic styles. <mark>As a result, the identity was neither recognizable nor applied everywhere.</mark>"
+        },
+        {
+        "type": "image",
+        "src": "./projectsAssets/l360-identity/existant-analyse.png",
+        "caption": "Analysis of the components of the existing visual identity",
+        "size": "full"
+        },
+        {
+        "type": "titleParagraph",
+        "title": "Visual analysis of the sector",
+        "paragraph": "I also used this phase to study the brand guidelines, marketing websites and software mockups of the sector's players. This showed me the identity each of them had developed, <mark>so that I could create an identity that fits within the sector's visual culture</mark> while remaining unique and recognizable."
+        },
+        {
+        "type": "image",
+        "src": "./projectsAssets/l360-identity/analyse-concurrence.png",
+        "caption": "Visual analysis of the sector's brands",
+        "size": "full"
+        },
+        {
+        "type": "titleParagraph",
+        "title": "Recommendations",
+        "paragraph": "At the end of this analysis, I presented my findings to the team, along with recommendations to improve the visual identity and how it is applied. In particular, I <mark>recommended writing detailed brand guidelines.</mark>"
+        },
+        {
+        "type": "titleParagraph",
+        "id": "identity",
+        "label": "Visual identity",
+        "title": "Design choices",
+        "paragraph": "After discussing my recommendations with the team, I put forward design proposals for the brand's identity, which were validated through successive feedback and iterations."
+        },
+        {
+        "type": "titleParagraph",
+        "title": "Colors",
+        "paragraph": "For the colors, I replaced the blue-greys with a deep navy blue and adjusted the saturation of the red. The aim was a <mark>more modern identity</mark> while keeping colors that <mark>convey trust and rigor.</mark>"
+        },
+        {
+        "type": "image",
+        "src": "./projectsAssets/l360-identity/l360-colors.png",
+        "caption": "From the mini style guide colors to the brand guidelines colors",
+        "size": "full"
+        },
+        {
+        "type": "titleParagraph",
+        "title": "Logo and typography",
+        "paragraph": "The logo was kept, with a few adjustments to <mark>match the new palette.</mark> For typography, I simplified: the existing materials used at least three typefaces, while the guidelines retain only one, Montserrat, for its <mark>simplicity</mark> and the <mark>reliability</mark> it conveys."
+        },
+        {
+        "type": "titleParagraph",
+        "title": "Writing the brand guidelines",
+        "paragraph": "Once the choices were validated, I wrote the brand guidelines: <mark>the style and usage rules for every element of the identity,</mark> from the logo to the illustrations and the colors."
+        },
+        {
+        "type": "image",
+        "src": "./projectsAssets/l360-identity/charte-graphique.png",
+        "caption": "Overview of the brand guidelines",
+        "size": "full"
+        },
+        {
+        "type": "titleParagraph",
+        "paragraph": "Once approved by management, this document became <mark>the single reference for the brand's visual identity</mark> and its application across all materials."
+        },
+        {
+        "type": "titleParagraph",
+        "id": "toolbox",
+        "label": "Toolbox",
+        "title": "Document templates",
+        "paragraph": "I started by creating Word and PowerPoint templates to <mark>standardize the brand's documents</mark>: meeting minutes, functional documentation, and internal and external presentations."
+        },
+        {
+        "type": "titleParagraph",
+        "title": "Icon library",
+        "paragraph": "I designed the icons as needs came up, following the guidelines to <mark>ensure visual consistency.</mark> They are grouped in a Figma component library, so they can be reused across files and updates can be rolled out easily."
+        },
+        {
+        "type": "image",
+        "src": "./projectsAssets/l360-identity/library-picto.png",
+        "caption": "List of the icons created",
+        "size": "full"
+        },
+        {
+        "type": "titleParagraph",
+        "title": "Vector illustrations",
+        "paragraph": "From the styles already used in the existing materials, I chose a 2D vector illustration style with few details, characters and the brand colors. This choice ensures <mark>visual harmony</mark> and gives a <mark>more contemporary look.</mark> Using this style, I created several illustrations to vary the visuals."
+        },
+        {
+        "type": "image",
+        "src": "./projectsAssets/l360-identity/illus-vecto.png",
+        "caption": "One of the vector illustrations created",
+        "size": "full"
+        },
+        {
+        "type": "titleParagraph",
+        "id": "comm-supports",
+        "label": "Communication",
+        "title": "Marketing website",
+        "paragraph": "For the communication materials, I started with the marketing website, <mark>a strategic asset.</mark> I kept its structure and most of its copy, but redesigned the whole visual layer to <mark>reflect the guidelines.</mark> I added icons to illustrate the content and bold text to build a hierarchy of information, making the site <mark>more consistent and easier to read.</mark>"
+        },
+        {
+        "type": "image",
+        "src": "./projectsAssets/l360-identity/site-vitrine.png",
+        "caption": "Top of the new marketing website's homepage",
+        "size": "full"
+        },
+        {
+        "type": "titleParagraph",
+        "title": "LinkedIn",
+        "paragraph": "As LinkedIn is the <mark>brand's main communication channel,</mark> I created several visuals for its posts."
+        },
+        {
+        "type": "image",
+        "src": "./projectsAssets/l360-identity/linkedin.png",
+        "caption": "Examples of visuals created for LinkedIn posts",
+        "size": "full"
+        },
+        {
+        "type": "titleParagraph",
+        "title": "Prospecting",
+        "paragraph": "I also created <mark>sales brochures,</mark> starting with one to send during <mark>phone prospecting.</mark>"
+        },
+        {
+        "type": "image",
+        "src": "./projectsAssets/l360-identity/flyer-phoning.png",
+        "caption": "Brochure for phone prospecting",
+        "size": "full"
+        },
+        {
+        "type": "titleParagraph",
+        "paragraph": "We then produced a guide presenting 6 engagements detected by the software, to <mark>spark prospects' interest and collect contacts.</mark> I handled the guide's layout, the related communications (LinkedIn, mailing) and the request form, accessible from the marketing website."
+        },
+        {
+        "type": "image",
+        "src": "./projectsAssets/l360-identity/guide-missions.png",
+        "caption": "Guide presenting 6 examples of engagements detected by the software",
+        "size": "full"
+        },
+        {
+        "type": "titleParagraph",
+        "title": "Congress",
+        "paragraph": "The accountants' annual congress is a <mark>key event for the brand</mark> in reaching its prospects. For the occasion, I designed a double-sided flyer, printed to be handed out to the people we met to <mark>explain the product and what it brings them.</mark>"
+        },
+        {
+        "type": "image",
+        "src": "./projectsAssets/l360-identity/flyer-congres26.png",
+        "caption": "Double-sided flyer for the accountants' congress",
+        "size": "full"
+        },
+        {
+        "type": "titleParagraph",
+        "title": "Booth",
+        "paragraph": "At the 2025 congress, we had a standard pre-built <mark>9 m² booth.</mark> I helped choose some of its elements, such as the carpet color, and created the <mark>graphic communication elements (reception counter, roll-up banner).</mark>"
+        },
+        {
+        "type": "image",
+        "src": "./projectsAssets/l360-identity/stand-kakemono.png",
+        "caption": "Mockup of the 2025 booth and the roll-up banner created for the occasion",
+        "size": "full"
+        },
+        {
+        "type": "titleParagraph",
+        "title": "Video",
+        "paragraph": "Still for the congress, we wanted a medium that would <mark>catch passersby's attention</mark> and draw them to the booth. I created a <mark>30-second animated video</mark> without sound (a congress is noisy, so it wouldn't have been audible) that <mark>presents the concept quickly</mark> and encourages people to ask for more information."
+        },
+        {
+        "type": "video",
+        "src": "./projectsAssets/l360-identity/video-tv-congres.mp4",
+        "poster": "./projectsAssets/l360-identity/video-tv-poster.png",
+        "caption": "Video to draw passersby to the booth at the accountants' congress",
+        "autoplay": true,
+        "loop": true
+        },
+        {
+        "type": "titleParagraph",
+        "id": "conclu",
+        "label": "Conclusion",
+        "title": "Project wrap-up",
+        "paragraph": "When I left, Liasse 360 had a <mark>recognizable visual identity,</mark> applied consistently from the marketing website to printed materials, and from social media to the booth. The team's feedback was positive: <mark>the identity was seen as more modern and more appealing.</mark> Documented in brand guidelines, it is designed so the team can create new materials without starting from scratch."
+        }
+    ]
+    },
+    {
         "url": "coolisses",
         "projectColor": "#D9CAF1",
         "coverUrl": "./projectsAssets/coolisses/coolisses-cover.png",
