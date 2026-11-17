@@ -54,7 +54,7 @@ export function LanguageDropdown({ isOpen, onToggle, onClose }) {
 
             {isOpen && (
                 <div 
-                    className="absolute right-0 mt-2.5 w-auto bg-(--light-gray) border-2 border-(--marine-clair) 
+                    className="absolute right-0 mt-2.5 w-max bg-(--light-gray) border-2 border-(--marine-clair) 
                     shadow-(--shadow-marine) z-50 p-1.5 flex flex-col gap-1 transition-all duration-200"
                 >
                     {Object.keys(flags).map((key) => {
@@ -64,6 +64,7 @@ export function LanguageDropdown({ isOpen, onToggle, onClose }) {
                                 key={key}
                                 onClick={() => handleSelect(key)}
                                 className={`flex items-center gap-1.5 w-full px-2 py-1.5 
+                                    whitespace-nowrap
                                     text-sm font-semibold transition-all cursor-pointer 
                                     ${isSelected 
                                         ? 'bg-(--marine) text-(--light-gray)' 
