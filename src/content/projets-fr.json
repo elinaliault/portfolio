@@ -272,7 +272,7 @@
             "label": "Vue d'ensemble",
             "paragraph": "Coolisses, c'est l'application intimiste qui vous fait <mark>découvrir des artistes émergents via leur processus de création</mark> tout en vous permettant de prendre le temps de créer un lien particulier avec eux.",
             "timeline": "1 mois",
-            "team": "Designers : Lou CARDON <br /> Développeurs : Françoise PHAM, César SAINT-LO",
+            "team": "Lou CARDON (designer), Françoise PHAM (développeuse), César SAINT-LO (développeur)",
             "role": "Participation à la création du concept <br /> Participation au design et au prototypage de l'expérience et de l'interface utilisateur <br /> Rédaction et animation des tests d’utilisabilité",
             "tools": ["Figma"]
             },
