@@ -24,7 +24,7 @@
             "timeline": "2 ans",
             "team": "Seule designer <br /> En concertation avec les associés et le chef de projet",
             "role": "Conception de la charte graphique <br />Maquettage du site vitrine <br />Réalisation des supports de communication de la marque",
-            "tools": ["Figma", "Illustrator", "After Effects", "Premiere Pro"]
+            "tools": ["Figma", "Illustrator", "After Effects", "Premiere Pro", "Photoshop"]
             },
             {
             "type": "titleParagraph",
@@ -208,25 +208,13 @@
             {
             "type": "titleParagraph",
             "title": "Congrès",
-            "paragraph": "Le congrès annuel des experts-comptables est un <mark>événement très important pour la marque</mark> auprès de ses prospects. J'ai conçu pour l'occasion un flyer recto-verso imprimable, à distribuer aux personnes rencontrées pour leur <mark>expliquer le produit et ce qu'il leur apporte.</mark>"
+            "paragraph": "Le congrès annuel des experts-comptables est un <mark>événement très important pour la marque</mark> auprès de ses prospects. J'ai conçu pour l'occasion un flyer recto-verso, imprimé pour être distribuer aux personnes rencontrées pour leur <mark>expliquer le produit et ce qu'il leur apporte.</mark>"
             },
             {
             "type": "image",
             "src": "./projectsAssets/l360-identity/flyer-congres26.png",
             "caption": "Flyer recto-verso imprimable pour le congrès des experts-comptables",
             "size": "full"
-            },
-            {
-            "type": "titleParagraph",
-            "paragraph": "Toujours pour le congrès, nous voulions un support qui <mark>attire l'attention des passants</mark> et les amène vers le stand. J'ai réalisé une <mark>vidéo animée de 30 secondes,</mark> sans son (dans un congrès bruyant, il n'aurait pas été audible), qui <mark>présente le concept rapidement</mark> et incite à demander plus d'informations."
-            },
-            {
-            "type": "video",
-            "src": "./projectsAssets/l360-identity/video-tv-congres.mp4",
-            "poster": "./projectsAssets/l360-identity/video-tv-poster.png",
-            "caption": "Vidéo pour attirer les passants sur le stand du congrès des experts-comptables",
-            "autoplay": true,
-            "loop": true
             },
             {
             "type": "titleParagraph",
@@ -241,7 +229,7 @@
             },
             {
             "type": "titleParagraph",
-            "paragraph": "Pour le congrès 2026, l'entreprise a fait appel à au <mark>studio {{nom}}</mark> pour concevoir un <mark>stand sur mesure.</mark> J'ai participé à plusieurs réunions avec le studio et réalisé les <mark>visuels destinés aux pans de murs.</mark> Le congrès ayant eu lieu après mon départ, les images ci-dessous sont des mockups."
+            "paragraph": "Pour le congrès 2026, l'entreprise a fait appel au <mark>studio {{nom}}</mark> pour concevoir un <mark>stand sur mesure.</mark> J'ai participé à plusieurs réunions avec le studio et réalisé les <mark>visuels destinés aux pans de murs.</mark> Le congrès ayant eu lieu après mon départ, les images ci-dessous sont des mockups."
             },
             {
             "type": "image",
@@ -256,6 +244,19 @@
                 { "src": "./projectsAssets/l360-identity/stand-mockup-front.png", "caption": "Mockup du stand vu de face" },
                 { "src": "./projectsAssets/l360-identity/stand-mockup-side.png", "caption": "Mockup du stand vu de côté" }
             ]
+            },
+            {
+            "type": "titleParagraph",
+            "title": "Vidéo",
+            "paragraph": "Toujours pour le congrès, nous voulions un support qui <mark>attire l'attention des passants</mark> et les amène vers le stand. J'ai réalisé une <mark>vidéo animée de 30 secondes,</mark> sans son (dans un congrès bruyant, il n'aurait pas été audible), qui <mark>présente le concept rapidement</mark> et incite à demander plus d'informations."
+            },
+            {
+            "type": "video",
+            "src": "./projectsAssets/l360-identity/video-tv-congres.mp4",
+            "poster": "./projectsAssets/l360-identity/video-tv-poster.png",
+            "caption": "Vidéo pour attirer les passants sur le stand du congrès des experts-comptables",
+            "autoplay": true,
+            "loop": true
             },
             {
             "type": "titleParagraph",
