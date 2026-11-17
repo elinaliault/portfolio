@@ -103,7 +103,7 @@
             {
             "type": "titleParagraph",
             "title": "Couleurs",
-            "paragraph": "Côté couleurs, j'ai remplacé les bleus-gris par un bleu marine foncé et ajusté la saturation du rouge. L'objectif était d'obtenir une identité plus moderne, tout en conservant des couleurs qui inspirent confiance et rigueur."
+            "paragraph": "Côté couleurs, j'ai remplacé les bleus-gris par un bleu marine foncé et ajusté la saturation du rouge. L'objectif était d'obtenir une <mark>identité plus moderne,</mark> tout en conservant des couleurs qui <mark>inspirent confiance et rigueur.</mark>"
             },
             {
             "type": "image",
@@ -114,12 +114,12 @@
             {
             "type": "titleParagraph",
             "title": "Logo et typographie",
-            "paragraph": "Le logo a été conservé, avec quelques ajustements pour l'accorder à la nouvelle palette. Côté typographie, j'ai simplifié : l'existant en utilisait au moins trois, la charte n'en retient plus qu'une, Montserrat, pour sa simplicité et la fiabilité qu'elle dégage."
+            "paragraph": "Le logo a été conservé, avec quelques ajustements pour <mark>l'accorder à la nouvelle palette.</mark> Côté typographie, j'ai simplifié : l'existant en utilisait au moins trois, la charte n'en retient plus qu'une, Montserrat, pour sa <mark>simplicité</mark> et la <mark>fiabilité</mark> qu'elle dégage."
             },
             {
             "type": "titleParagraph",
             "title": "Écriture de la charte graphique",
-            "paragraph": "Une fois les choix validés, j'ai rédigé la charte graphique : les règles de style et d'utilisation de chaque élément de l'identité, du logo aux illustrations en passant par les couleurs."
+            "paragraph": "Une fois les choix validés, j'ai rédigé la charte graphique : <mark>les règles de style et d'utilisation de chaque élément de l'identité,</mark> du logo aux illustrations en passant par les couleurs."
             },
             {
             "type": "image",
@@ -129,19 +129,19 @@
             },
             {
             "type": "titleParagraph",
-            "paragraph": "Validé par la direction, ce document est devenu l'unique référence pour l'identité graphique de la marque et sa déclinaison sur les différents supports."
+            "paragraph": "Validé par la direction, ce document est devenu <mark>l'unique référence pour l'identité graphique de la marque</mark> et sa déclinaison sur les différents supports."
             },
             {
             "type": "titleParagraph",
             "id": "toolbox",
             "label": "Boîte à outils",
             "title": "Modèles de documents",
-            "paragraph": "J'ai commencé par créer des modèles Word et PowerPoint pour uniformiser les documents de la marque : comptes rendus de réunion, documentation fonctionnelle, présentations internes et externes."
+            "paragraph": "J'ai commencé par créer des modèles Word et PowerPoint pour <mark>uniformiser les documents de la marque</mark> : comptes rendus de réunion, documentation fonctionnelle, présentations internes et externes."
             },
             {
             "type": "titleParagraph",
             "title": "Bibliothèque de pictogrammes",
-            "paragraph": "J'ai réalisé les pictogrammes au fil des besoins, en suivant les directives de la charte pour garantir la cohérence graphique. Ils sont regroupés dans une bibliothèque de composants Figma, ce qui permet de les réutiliser dans différents fichiers et de répercuter facilement les évolutions."
+            "paragraph": "J'ai réalisé les pictogrammes au fil des besoins, en suivant les directives de la charte pour <mark>garantir la cohérence graphique.</mark> Ils sont regroupés dans une bibliothèque de composants Figma, ce qui permet de les réutiliser dans différents fichiers et de répercuter facilement les évolutions."
             },
             {
             "type": "image",
@@ -152,7 +152,7 @@
             {
             "type": "titleParagraph",
             "title": "Illustrations vectorielles",
-            "paragraph": "Parmi les styles déjà utilisés dans l'existant, j'ai retenu un style d'illustration 2D vectorielle, avec peu de détails, des personnages et les couleurs de la marque. Ce choix assure la cohérence des visuels et donne une image plus actuelle. À partir de ce style, j'ai réalisé plusieurs illustrations afin de varier les représentations."
+            "paragraph": "Parmi les styles déjà utilisés dans l'existant, j'ai retenu un style d'illustration 2D vectorielle, avec peu de détails, des personnages et les couleurs de la marque. Ce choix assure <mark>l'harmonie des visuels</mark> et donne une <mark>image plus actuelle.</mark> À partir de ce style, j'ai réalisé plusieurs illustrations afin de varier les représentations."
             },
             {
             "type": "image",
@@ -165,7 +165,7 @@
             "id": "comm-supports",
             "label": "Communication",
             "title": "Site vitrine",
-            "paragraph": "Pour les supports de communication, j'ai commencé par le site vitrine, un support stratégique. J'ai conservé sa structure et l'essentiel de ses textes, mais refondu tout le design graphique pour refléter la charte. J'ai ajouté des pictogrammes pour illustrer les contenus et du gras pour hiérarchiser l'information, ce qui rend le site plus cohérent et plus lisible."
+            "paragraph": "Pour les supports de communication, j'ai commencé par le site vitrine, <mark>un support stratégique.</mark> J'ai conservé sa structure et l'essentiel de ses textes, mais refondu tout le design graphique pour <mark>refléter la charte.</mark> J'ai ajouté des pictogrammes pour illustrer les contenus et du gras pour hiérarchiser l'information, ce qui rend le site <mark>plus cohérent et plus lisible.</mark>"
             },
             {
             "type": "image",
@@ -176,18 +176,18 @@
             {
             "type": "titleParagraph",
             "title": "LinkedIn",
-            "paragraph": "LinkedIn étant le principal canal de communication de la marque, j'ai réalisé plusieurs visuels pour ses publications."
+            "paragraph": "LinkedIn étant le <mark>principal canal de communication de la marque,</mark> j'ai réalisé plusieurs visuels pour ses publications."
             },
             {
             "type": "image",
             "src": "./projectsAssets/l360-identity/linkedin.png",
-            "caption": "Exemples de publications réalisées pour LinkedIn",
+            "caption": "Exemples de visuels réalisés pour les publications LinkedIn",
             "size": "full"
             },
             {
             "type": "titleParagraph",
             "title": "Prospection",
-            "paragraph": "J'ai également réalisé des plaquettes de communication, en commençant par une plaquette à envoyer lors de la prospection téléphonique."
+            "paragraph": "J'ai également réalisé des <mark>plaquettes de communication,</mark> en commençant par une plaquette à envoyer lors de la <mark>prospection téléphonique.</mark>"
             },
             {
             "type": "image",
@@ -197,7 +197,7 @@
             },
             {
             "type": "titleParagraph",
-            "paragraph": "Nous avons ensuite conçu un guide présentant 6 missions détectées par le logiciel, pour susciter l'intérêt des prospects et récupérer des contacts. J'ai réalisé la mise en page du guide, les communications associées (LinkedIn, mailing) ainsi que le formulaire de demande, accessible depuis le site vitrine."
+            "paragraph": "Nous avons ensuite conçu un guide présentant 6 missions détectées par le logiciel, pour <mark>susciter l'intérêt des prospects et récupérer des contacts.</mark> J'ai réalisé la mise en page du guide, les communications associées (LinkedIn, mailing) ainsi que le formulaire de demande, accessible depuis le site vitrine."
             },
             {
             "type": "image",
@@ -208,7 +208,7 @@
             {
             "type": "titleParagraph",
             "title": "Congrès",
-            "paragraph": "Le congrès annuel des experts-comptables est l'événement le plus important pour la marque auprès de ses prospects. J'ai conçu pour l'occasion un flyer recto-verso imprimable, à distribuer aux personnes rencontrées pour leur expliquer le produit et ce qu'il leur apporte."
+            "paragraph": "Le congrès annuel des experts-comptables est un <mark>événement très important pour la marque</mark> auprès de ses prospects. J'ai conçu pour l'occasion un flyer recto-verso imprimable, à distribuer aux personnes rencontrées pour leur <mark>expliquer le produit et ce qu'il leur apporte.</mark>"
             },
             {
             "type": "image",
@@ -218,7 +218,7 @@
             },
             {
             "type": "titleParagraph",
-            "paragraph": "Toujours pour le congrès, nous voulions un support qui attire l'attention des passants et les amène vers le stand. J'ai réalisé une vidéo animée de 30 secondes, sans son (dans un congrès bruyant, il n'aurait pas été audible), qui présente le concept rapidement et incite à demander plus d'informations."
+            "paragraph": "Toujours pour le congrès, nous voulions un support qui <mark>attire l'attention des passants</mark> et les amène vers le stand. J'ai réalisé une <mark>vidéo animée de 30 secondes,</mark> sans son (dans un congrès bruyant, il n'aurait pas été audible), qui <mark>présente le concept rapidement</mark> et incite à demander plus d'informations."
             },
             {
             "type": "video",
@@ -231,7 +231,7 @@
             {
             "type": "titleParagraph",
             "title": "Stand",
-            "paragraph": "En 2025, nous disposions d'un stand de 9 m² monté par défaut. J'ai participé au choix de certains éléments, comme la couleur de la moquette, et réalisé les éléments graphiques de communication (borne d'accueil, kakémono)."
+            "paragraph": "Au congrès 2025, nous disposions d'un <mark>stand de 9 m²</mark> monté par défaut. J'ai participé au choix de certains éléments, comme la couleur de la moquette, et réalisé les <mark>éléments graphiques de communication (borne d'accueil, kakémono).</mark>"
             },
             {
             "type": "image",
@@ -241,7 +241,7 @@
             },
             {
             "type": "titleParagraph",
-            "paragraph": "Pour le congrès 2026, l'entreprise a fait appel à un studio pour concevoir un stand sur mesure. J'ai participé à plusieurs réunions avec le studio et réalisé les visuels destinés aux pans de murs. Le congrès ayant eu lieu après mon départ, les images ci-dessous sont des mockups."
+            "paragraph": "Pour le congrès 2026, l'entreprise a fait appel à au <mark>studio {{nom}}</mark> pour concevoir un <mark>stand sur mesure.</mark> J'ai participé à plusieurs réunions avec le studio et réalisé les <mark>visuels destinés aux pans de murs.</mark> Le congrès ayant eu lieu après mon départ, les images ci-dessous sont des mockups."
             },
             {
             "type": "image",
@@ -262,7 +262,7 @@
             "id": "conclu",
             "label": "Conclusion",
             "title": "Bilan du projet",
-            "paragraph": "À mon départ, Liasse 360 disposait d'une identité graphique reconnaissable, déclinée de façon cohérente du site vitrine aux supports imprimés, des réseaux sociaux au stand. Les retours de l'équipe ont été positifs : l'identité était perçue comme plus moderne et plus attirante. Documentée dans une charte, elle est pensée pour que l'équipe puisse créer de nouveaux supports sans repartir de zéro."
+            "paragraph": "À mon départ, Liasse 360 disposait d'une <mark>identité graphique reconnaissable,</mark> déclinée de façon cohérente du site vitrine aux supports imprimés, des réseaux sociaux au stand. Les retours de l'équipe ont été positifs : <mark>l'identité était perçue comme plus moderne et plus attirante.</mark> Documentée dans une charte, elle est pensée pour que l'équipe puisse créer de nouveaux supports sans repartir de zéro."
             }
         ]
     },
