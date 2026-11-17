@@ -229,24 +229,6 @@
             },
             {
             "type": "titleParagraph",
-            "paragraph": "Pour le congrès 2026, l'entreprise a fait appel au <mark>studio {{nom}}</mark> pour concevoir un <mark>stand sur mesure.</mark> J'ai participé à plusieurs réunions avec le studio et réalisé les <mark>visuels destinés aux pans de murs.</mark> Le congrès ayant eu lieu après mon départ, les images ci-dessous sont des mockups."
-            },
-            {
-            "type": "image",
-            "src": "./projectsAssets/l360-identity/stand-visuals.png",
-            "caption": "Éléments visuels destinés aux pans de murs du stand",
-            "size": "full"
-            },
-            {
-            "type": "imageGrid",
-            "columns": 2,
-            "images": [
-                { "src": "./projectsAssets/l360-identity/stand-mockup-front.png", "caption": "Mockup du stand vu de face" },
-                { "src": "./projectsAssets/l360-identity/stand-mockup-side.png", "caption": "Mockup du stand vu de côté" }
-            ]
-            },
-            {
-            "type": "titleParagraph",
             "title": "Vidéo",
             "paragraph": "Toujours pour le congrès, nous voulions un support qui <mark>attire l'attention des passants</mark> et les amène vers le stand. J'ai réalisé une <mark>vidéo animée de 30 secondes,</mark> sans son (dans un congrès bruyant, il n'aurait pas été audible), qui <mark>présente le concept rapidement</mark> et incite à demander plus d'informations."
             },
